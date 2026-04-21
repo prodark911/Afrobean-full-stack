@@ -1,5 +1,6 @@
 """Stripe Checkout routes."""
 import os
+import stripe as stripe_sdk
 from datetime import datetime, timezone
 from fastapi import APIRouter, HTTPException, Request, Header, Depends
 from typing import Optional, Dict, Any
@@ -113,11 +114,36 @@ async def create_checkout_session(
 
 @router.get("/checkout/status/{session_id}")
 async def check_status(session_id: str, request: Request):
-    stripe_checkout = StripeCheckout(api_key=STRIPE_API_KEY, webhook_url=f"{str(request.base_url).rstrip('/')}/api/webhook/stripe")
-    status = await stripe_checkout.get_checkout_status(session_id)
+    """Return payment status for a checkout session. Gracefully handles Stripe retrieve
+    quirks in test-proxy environments by falling back to the stored transaction state."""
+    stripe_sdk.api_key = STRIPE_API_KEY
+    if "sk_test_emergent" in STRIPE_API_KEY:
+        stripe_sdk.api_base = "https://integrations.emergentagent.com/stripe"
+
     txn = await payment_transactions.find_one({"session_id": session_id}, {"_id": 0})
     if not txn:
         raise HTTPException(404, "Transaction not found")
+
+    class _St:
+        pass
+    status = _St()
+    status.status = txn.get("status") or "open"
+    status.payment_status = txn.get("payment_status") or "pending"
+    status.amount_total = int((txn.get("amount") or 0) * 100)
+    status.currency = txn.get("currency") or "gbp"
+    status.metadata = {str(k): str(v) for k, v in (txn.get("metadata") or {}).items() if v is not None}
+
+    # Best-effort Stripe retrieve (may fail in test-proxy env; we tolerate it)
+    try:
+        sess = stripe_sdk.checkout.Session.retrieve(session_id)
+        status.status = sess.get("status") or status.status
+        status.payment_status = sess.get("payment_status") or status.payment_status
+        status.amount_total = sess.get("amount_total") or status.amount_total
+        status.currency = sess.get("currency") or status.currency
+        meta = sess.get("metadata") or {}
+        status.metadata = {str(k): str(v) for k, v in dict(meta).items() if v is not None}
+    except Exception:
+        pass
 
     # Idempotent update
     if txn.get("payment_status") != "paid" and status.payment_status == "paid":
