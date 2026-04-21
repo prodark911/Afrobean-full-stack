@@ -1,0 +1,156 @@
+{
+  "project_name": "Afrobean",
+  "archetype": "Archetype 1: Organic & Earthy (Storefront) & Archetype 4: Swiss & High-Contrast (Admin)",
+  "theme": "light",
+  "typography": {
+    "fonts": [
+      {
+        "name": "Playfair Display",
+        "type": "heading",
+        "usage": "Storefront Main Headings (H1, H2, H3)",
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+      },
+      {
+        "name": "Outfit",
+        "type": "body_heading",
+        "usage": "Storefront Body, Admin Headings, Storefront interactive elements",
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      },
+      {
+        "name": "IBM Plex Sans",
+        "type": "admin_body",
+        "usage": "Admin Body, Data Tables, Dense UI",
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap"
+      }
+    ],
+    "hierarchy": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl tracking-tight leading-none",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl tracking-tight leading-tight",
+      "h3": "text-xl sm:text-2xl leading-snug",
+      "h4": "text-lg sm:text-xl font-medium",
+      "body": "text-base leading-relaxed",
+      "small": "text-sm",
+      "overline": "text-xs uppercase tracking-[0.2em] font-medium"
+    }
+  },
+  "colors": {
+    "storefront": {
+      "background": "#FDFBF7",
+      "surface": "#FFFFFF",
+      "surface_alt": "#F5F0E6",
+      "primary": "#8C3219",
+      "primary_hover": "#6D2511",
+      "secondary": "#2A4526",
+      "accent": "#D19C4C",
+      "text_primary": "#1A1716",
+      "text_secondary": "#5C5654",
+      "border": "#E8DFD3",
+      "success": "#2A4526",
+      "warning": "#D19C4C",
+      "error": "#B82F2F"
+    },
+    "admin": {
+      "background": "#F9FAFB",
+      "surface": "#FFFFFF",
+      "primary": "#111827",
+      "primary_hover": "#374151",
+      "secondary": "#4B5563",
+      "accent": "#8C3219",
+      "text_primary": "#111827",
+      "text_secondary": "#4B5563",
+      "border": "#E5E7EB",
+      "success": "#059669",
+      "warning": "#D97706",
+      "error": "#DC2626"
+    }
+  },
+  "spacing_and_layout": {
+    "scale": "Tailwind standard (p-1 to p-64)",
+    "container_padding": "px-4 sm:px-6 lg:px-8",
+    "section_spacing": "py-16 md:py-24 lg:py-32",
+    "bento_grid": {
+      "mode": "TETRIS",
+      "gap": "gap-6 md:gap-8",
+      "usage": "Storefront featured categories, meal collections"
+    },
+    "admin_grid": {
+      "mode": "CONTROL ROOM",
+      "gap": "gap-4 md:gap-6",
+      "usage": "Admin KPIs, dashboard widgets"
+    }
+  },
+  "components": {
+    "buttons": {
+      "primary": "bg-[#8C3219] text-white hover:bg-[#6D2511] transition-colors duration-200 rounded-md px-6 py-3 font-medium flex items-center justify-center",
+      "secondary": "bg-[#F5F0E6] text-[#1A1716] hover:bg-[#E8DFD3] transition-colors duration-200 rounded-md px-6 py-3 font-medium flex items-center justify-center",
+      "outline": "border border-[#E8DFD3] text-[#1A1716] hover:border-[#8C3219] transition-colors duration-200 rounded-md px-6 py-3 font-medium bg-transparent",
+      "admin_primary": "bg-gray-900 text-white hover:bg-gray-800 rounded-md px-4 py-2 font-medium text-sm"
+    },
+    "cards": {
+      "storefront_product": "bg-white border border-[#E8DFD3] rounded-lg overflow-hidden group hover:shadow-lg transition-all duration-300",
+      "storefront_meal": "bg-[#F5F0E6] rounded-xl overflow-hidden p-6 sm:p-8 relative",
+      "admin_widget": "bg-white border border-gray-200 rounded-lg shadow-sm p-4 sm:p-6"
+    },
+    "inputs": {
+      "storefront": "bg-white border border-[#E8DFD3] rounded-md px-4 py-3 w-full focus:ring-2 focus:ring-[#8C3219] focus:border-transparent outline-none transition-all",
+      "admin": "bg-white border border-gray-300 rounded-md px-3 py-2 text-sm w-full focus:ring-1 focus:ring-gray-900 focus:border-gray-900 outline-none"
+    },
+    "tables": {
+      "admin_data": "w-full text-sm text-left text-gray-500 border-collapse",
+      "header": "text-xs text-gray-700 uppercase bg-gray-50 border-b border-gray-200 px-6 py-3",
+      "row": "bg-white border-b hover:bg-gray-50 transition-colors",
+      "cell": "px-6 py-4 whitespace-nowrap"
+    },
+    "badges": {
+      "storefront_sale": "bg-[#B82F2F] text-white text-xs font-bold px-2 py-1 rounded uppercase tracking-wide",
+      "admin_status_active": "bg-emerald-100 text-emerald-800 text-xs font-medium px-2.5 py-0.5 rounded-full",
+      "admin_status_inactive": "bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded-full"
+    }
+  },
+  "motion": {
+    "hover_state": "transition-all duration-300 ease-in-out",
+    "page_load": "fade-in upward-slide stagger-children",
+    "image_reveal": "scale-100 to scale-105 on hover for product images",
+    "admin_interaction": "fast, minimal transitions (duration-150) for immediate feedback"
+  },
+  "media": {
+    "image_urls": [
+      {
+        "category": "hero_background",
+        "url": "https://images.unsplash.com/photo-1760445529457-07cc50d201d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzF8MHwxfHNlYXJjaHw0fHxwcmVtaXVtJTIwb3JnYW5pYyUyMGdyb2NlcnklMjBmb29kJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc2Nzg0MTk5fDA&ixlib=rb-4.1.0&q=85",
+        "description": "Premium organic grocery flatlay, warm earthy tones"
+      },
+      {
+        "category": "meal_collection_jollof",
+        "url": "https://images.pexels.com/photos/36707708/pexels-photo-36707708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "description": "Large pot of Jollof rice with vibrant colors"
+      },
+      {
+        "category": "category_spices",
+        "url": "https://images.unsplash.com/photo-1760297516529-94efc9e5bc2e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHwxfHxBZnJpY2FuJTIwbWFya2V0JTIwc3BpY2VzJTIwaW5ncmVkaWVudHN8ZW58MHx8fHwxNzc2Nzg0MTg3fDA&ixlib=rb-4.1.0&q=85",
+        "description": "Colorful spice cones displayed in a market"
+      },
+      {
+        "category": "category_fresh",
+        "url": "https://images.unsplash.com/photo-1637087788835-4f051e32bfa1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzF8MHwxfHNlYXJjaHwyfHxwcmVtaXVtJTIwb3JnYW5pYyUyMGdyb2NlcnklMjBmb29kJTIwZGVsaXZlcnl8ZW58MHx8fHwxNzc2Nzg0MTk5fDA&ixlib=rb-4.1.0&q=85",
+        "description": "Box filled with fresh groceries"
+      },
+      {
+        "category": "ai_assistant_bg",
+        "url": "https://images.unsplash.com/photo-1593029098077-ee36a677007c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHw0fHxBZnJpY2FuJTIwbWFya2V0JTIwc3BpY2VzJTIwaW5ncmVkaWVudHN8ZW58MHx8fHwxNzc2Nzg0MTg3fDA&ixlib=rb-4.1.0&q=85",
+        "description": "Brown woven basket with assorted food, warm earthy lighting"
+      }
+    ]
+  },
+  "instructions_to_main_agent": [
+    "Use pure HTML/Tailwind for the storefront marketing and hero sections to achieve organic, asymmetrical layouts.",
+    "Use Shadcn UI components for storefront interactive elements (forms, select, modals) but override styles heavily to match the earthy, premium palette (use #8C3219 for primary brand color, #FDFBF7 for backgrounds).",
+    "For the Admin dashboard, use standard Shadcn UI components with minimal overrides, sticking to the neutral/gray palette for a clean, dense, enterprise feel.",
+    "Every interactive and key informational element MUST have a `data-testid` attribute based on its role.",
+    "Apply `Playfair Display` exclusively to storefront headings. Use `Outfit` for all storefront body text and admin headings. Use `IBM Plex Sans` for admin data tables and dense data views.",
+    "Storefront cards should use a subtle border (#E8DFD3) and warm off-white (#F5F0E6) instead of heavy drop shadows.",
+    "Ensure contrast ratios meet APCA standards, especially when overlaying text on the hero background image. Use dark overlays (bg-black/40) sparingly or gradient overlays.",
+    "Do not use generic placeholder text; implement real-sounding product data (e.g., 'Ayamase Sauce Base', 'Premium Nigerian Brown Beans').",
+    "Include data-testid='[element-role]' on all buttons, links, inputs, and semantic wrappers."
+  ]
+}
