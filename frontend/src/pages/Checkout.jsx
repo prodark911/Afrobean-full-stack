@@ -9,17 +9,38 @@ export default function Checkout() {
   const [form, setForm] = useState({
     name: customer?.name || "", phone: customer?.phone || "",
     line1: "", line2: "", city: "Peterborough", postcode: "",
-    country: "UK", notes: "", distance_miles: 2,
+    country: "UK", notes: "", distance_miles: null,
   });
   const [quote, setQuote] = useState(null);
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState("");
+  const [pcLoading, setPcLoading] = useState(false);
+  const [pcInfo, setPcInfo] = useState(null);
   const nav = useNavigate();
   const subtotal = cart.items?.reduce((a, b) => a + b.price * b.quantity, 0) || 0;
 
+  // Auto-lookup postcode via postcodes.io when user stops typing
   useEffect(() => {
-    if (!cart.items?.length) return;
-    api.post("/delivery/quote", { subtotal, distance_miles: +form.distance_miles })
+    const pc = (form.postcode || "").trim();
+    if (pc.length < 5) { setPcInfo(null); setForm(f => ({ ...f, distance_miles: null })); return; }
+    const t = setTimeout(async () => {
+      setPcLoading(true); setErr("");
+      try {
+        const { data } = await api.get("/postcode/lookup", { params: { postcode: pc } });
+        setPcInfo(data);
+        setForm(f => ({ ...f, distance_miles: data.distance_miles, city: data.town || f.city }));
+      } catch (e) {
+        setPcInfo(null);
+        setForm(f => ({ ...f, distance_miles: null }));
+        setErr(e.response?.data?.detail || "Postcode not recognised");
+      } finally { setPcLoading(false); }
+    }, 450);
+    return () => clearTimeout(t);
+  }, [form.postcode]);
+
+  useEffect(() => {
+    if (!cart.items?.length || form.distance_miles == null) return;
+    api.post("/delivery/quote", { subtotal, distance_miles: form.distance_miles })
       .then(r => setQuote(r.data)).catch(e => setErr(e.response?.data?.detail || "Delivery check failed"));
   }, [subtotal, form.distance_miles, cart.items?.length]);
 
@@ -72,12 +93,19 @@ export default function Checkout() {
                 <input required value={form.city} onChange={e => setForm({ ...form, city: e.target.value })} className="afr-input" data-testid="chk-city" />
               </label>
               <label className="block"><span className="text-sm">Postcode</span>
-                <input required value={form.postcode} onChange={e => setForm({ ...form, postcode: e.target.value })} className="afr-input" data-testid="chk-postcode" />
+                <input required value={form.postcode} onChange={e => setForm({ ...form, postcode: e.target.value.toUpperCase() })} className="afr-input" placeholder="e.g. PE1 1PY" data-testid="chk-postcode" />
+                {pcLoading && <span className="text-xs text-afro-ink-soft">Checking postcode…</span>}
+                {pcInfo && (
+                  pcInfo.within_radius ? (
+                    <span className="text-xs text-afro-secondary">✓ {pcInfo.town} · {pcInfo.distance_miles} miles from our store</span>
+                  ) : (
+                    <span className="text-xs text-afro-error">✗ {pcInfo.distance_miles} miles — outside our 5-mile delivery radius</span>
+                  )
+                )}
               </label>
-              <label className="block sm:col-span-2"><span className="text-sm">Distance from our store (miles)</span>
-                <input type="number" min={0} max={5} step={0.1} value={form.distance_miles} onChange={e => setForm({ ...form, distance_miles: e.target.value })} className="afr-input" data-testid="chk-distance" />
-                <span className="text-xs text-afro-ink-soft">We deliver within 5 miles of 1227 Bourges Blvd, Peterborough PE1 2AU. £2.99 per mile, free over £50.</span>
-              </label>
+              <div className="sm:col-span-2 text-xs text-afro-ink-soft bg-afro-surface-alt rounded-md p-3">
+                We deliver within 5 miles of 1227 Bourges Blvd, Peterborough PE1 2AU. £2.99 per mile, free over £50. Distance is calculated automatically from your postcode via postcodes.io.
+              </div>
             </div>
           </div>
           <div className="bg-white border border-afro-border rounded-xl p-6">
@@ -105,8 +133,8 @@ export default function Checkout() {
             <span data-testid="chk-total">{formatGBP(subtotal + (quote?.fee || 0))}</span>
           </div>
           {err && <p className="text-sm text-afro-error mt-3">{err}</p>}
-          <button type="submit" disabled={loading || (quote && !quote.available)} className="afr-btn-primary w-full mt-5 disabled:opacity-60" data-testid="pay-with-stripe-btn">
-            {loading ? "Creating secure session…" : "Pay with Stripe"}
+          <button type="submit" disabled={loading || !pcInfo?.within_radius || (quote && !quote.available)} className="afr-btn-primary w-full mt-5 disabled:opacity-60" data-testid="pay-with-stripe-btn">
+            {loading ? "Creating secure session…" : pcInfo && !pcInfo.within_radius ? "Outside delivery area" : "Pay with Stripe"}
           </button>
           <p className="text-xs text-afro-ink-soft mt-3">Secured by Stripe · currency GBP (£)</p>
         </aside>

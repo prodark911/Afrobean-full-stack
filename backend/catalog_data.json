@@ -1,0 +1,7089 @@
+[
+ {
+  "num": 1,
+  "name": "Mama\u2019s Choice Plantain Fufu Mix  4kg",
+  "slug": "mamas-choice-plantain-fufu-mix-4kg-1",
+  "brand": "Mama\u2019S",
+  "category_slug": "rice-flour-swallows",
+  "price": 24.14,
+  "image": "/products/image1.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0001"
+ },
+ {
+  "num": 2,
+  "name": "Nueden Foods Fufu Flour 2g",
+  "slug": "nueden-foods-fufu-flour-2g-2",
+  "brand": "Nueden",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": "/products/image2.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0002"
+ },
+ {
+  "num": 3,
+  "name": "Tropicom Plantain Fufu Flour 3.5kg",
+  "slug": "tropicom-plantain-fufu-flour-35kg-3",
+  "brand": "Tropicom",
+  "category_slug": "rice-flour-swallows",
+  "price": 20.78,
+  "image": "/products/image3.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0003"
+ },
+ {
+  "num": 4,
+  "name": "Zealous Bean Flour 1kg",
+  "slug": "zealous-bean-flour-1kg-4",
+  "brand": "Zealous",
+  "category_slug": "rice-flour-swallows",
+  "price": 5.72,
+  "image": "/products/image4.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0004"
+ },
+ {
+  "num": 5,
+  "name": "FOOD AFROBEAN Shea butter 400g",
+  "slug": "food-afrobean-shea-butter-400g-5",
+  "brand": "Food Afrobean",
+  "category_slug": "beauty-personal-care",
+  "price": 7.44,
+  "image": "/products/image5.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0005"
+ },
+ {
+  "num": 6,
+  "name": "CEYLON Cinnamon sticks 50g",
+  "slug": "ceylon-cinnamon-sticks-50g-6",
+  "brand": "Ceylon",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image6.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0006"
+ },
+ {
+  "num": 8,
+  "name": "RAJAH Garam masala 400g",
+  "slug": "rajah-garam-masala-400g-8",
+  "brand": "Rajah",
+  "category_slug": "spices-seasonings",
+  "price": 10.39,
+  "image": "/products/image8.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0008"
+ },
+ {
+  "num": 9,
+  "name": "MAGGI  Arome liquid seasoning 768m",
+  "slug": "maggi-arome-liquid-seasoning-768m-9",
+  "brand": "Maggi",
+  "category_slug": "spices-seasonings",
+  "price": 24.59,
+  "image": "/products/image9.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0009"
+ },
+ {
+  "num": 10,
+  "name": "Mama\u2019s Pride Plantain Fufu \u201cEfie Eduane\u201d4kg",
+  "slug": "mamas-pride-plantain-fufu-efie-eduane4kg-10",
+  "brand": "Mama\u2019S",
+  "category_slug": "rice-flour-swallows",
+  "price": 23.92,
+  "image": "/products/image10.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0010"
+ },
+ {
+  "num": 11,
+  "name": "KTC Coconut oil 500ml",
+  "slug": "ktc-coconut-oil-500ml-11",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.03,
+  "image": "/products/image11.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0011"
+ },
+ {
+  "num": 12,
+  "name": "DUNN'S RIVER Coconut milk 400ml",
+  "slug": "dunns-river-coconut-milk-400ml-12",
+  "brand": "Dunn'S River",
+  "category_slug": "oils-cooking-essentials",
+  "price": 2.52,
+  "image": "/products/image12.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0012"
+ },
+ {
+  "num": 13,
+  "name": "Tom brown 500g",
+  "slug": "tom-brown-500g-13",
+  "brand": "Tom",
+  "category_slug": "rice-flour-swallows",
+  "price": 3.01,
+  "image": "/products/image13.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0013"
+ },
+ {
+  "num": 14,
+  "name": "Food Afrobean Yam Flour 3kg",
+  "slug": "food-afrobean-yam-flour-3kg-14",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 17.53,
+  "image": "/products/image14.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0014"
+ },
+ {
+  "num": 15,
+  "name": "GHANA TASTE Banku mix 500g",
+  "slug": "ghana-taste-banku-mix-500g-15",
+  "brand": "Ghana Taste",
+  "category_slug": "rice-flour-swallows",
+  "price": 2.7,
+  "image": "/products/image15.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0015"
+ },
+ {
+  "num": 16,
+  "name": "Food Afrobean Yam Flour 5kg",
+  "slug": "food-afrobean-yam-flour-5kg-16",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 30.15,
+  "image": "/products/image16.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0016"
+ },
+ {
+  "num": 17,
+  "name": "GHANA TASTE Kokonte 500g",
+  "slug": "ghana-taste-kokonte-500g-17",
+  "brand": "Ghana Taste",
+  "category_slug": "rice-flour-swallows",
+  "price": 3.04,
+  "image": "/products/image17.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0017"
+ },
+ {
+  "num": 18,
+  "name": "TVS FOODS Rosecoco beans in salt water 400g",
+  "slug": "tvs-foods-rosecoco-beans-in-salt-water-400g-18",
+  "brand": "Tvs Foods",
+  "category_slug": "beans-grains-nuts",
+  "price": 2.92,
+  "image": "/products/image18.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0018"
+ },
+ {
+  "num": 19,
+  "name": "Tropical Sun Pink Skin Peanut 500g",
+  "slug": "tropical-sun-pink-skin-peanut-500g-19",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.09,
+  "image": "/products/image19.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0019"
+ },
+ {
+  "num": 20,
+  "name": "Tropical Sun Pink Skin Peanuts 1.5kg",
+  "slug": "tropical-sun-pink-skin-peanuts-15kg-20",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 12.31,
+  "image": "/products/image20.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0020"
+ },
+ {
+  "num": 21,
+  "name": "GRACE Hot pepper sauce 85ml",
+  "slug": "grace-hot-pepper-sauce-85ml-21",
+  "brand": "Grace",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image21.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0021"
+ },
+ {
+  "num": 22,
+  "name": "AFRICSN HARVEST Banku mix 1kg",
+  "slug": "africsn-harvest-banku-mix-1kg-22",
+  "brand": "Africsn Harvest",
+  "category_slug": "rice-flour-swallows",
+  "price": 6.31,
+  "image": "/products/image22.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0022"
+ },
+ {
+  "num": 23,
+  "name": "GHANA BEST Plantain fufu flour 680g",
+  "slug": "ghana-best-plantain-fufu-flour-680g-23",
+  "brand": "Ghana Best",
+  "category_slug": "rice-flour-swallows",
+  "price": 4.28,
+  "image": "/products/image23.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0023"
+ },
+ {
+  "num": 24,
+  "name": "Tropical Sun Red Skin Peanuts 1.5kg",
+  "slug": "tropical-sun-red-skin-peanuts-15kg-24",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 11.84,
+  "image": "/products/image24.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0024"
+ },
+ {
+  "num": 25,
+  "name": "DELEX SUPPLIES LTD. Hausa koko 500g",
+  "slug": "delex-supplies-ltd-hausa-koko-500g-25",
+  "brand": "Delex Supplies Ltd.",
+  "category_slug": "rice-flour-swallows",
+  "price": 2.66,
+  "image": "/products/image25.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0025"
+ },
+ {
+  "num": 26,
+  "name": "Mama\u2019s Choice Plantain Fufu Mix 1.5kg",
+  "slug": "mamas-choice-plantain-fufu-mix-15kg-26",
+  "brand": "Mama\u2019S",
+  "category_slug": "rice-flour-swallows",
+  "price": 9.46,
+  "image": "/products/image26.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0026"
+ },
+ {
+  "num": 27,
+  "name": "Tropical Sun Maize Meal 1.5kg",
+  "slug": "tropical-sun-maize-meal-15kg-27",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.84,
+  "image": "/products/image27.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0027"
+ },
+ {
+  "num": 28,
+  "name": "Tropical Sun Cornmeal Fine 1.5kg",
+  "slug": "tropical-sun-cornmeal-fine-15kg-28",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.59,
+  "image": "/products/image28.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0028"
+ },
+ {
+  "num": 29,
+  "name": "Tropical Sun Cornmeal Coarse 1.5kg",
+  "slug": "tropical-sun-cornmeal-coarse-15kg-29",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.6,
+  "image": "/products/image29.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0029"
+ },
+ {
+  "num": 30,
+  "name": "Tropical Sun Farina 1.5kg",
+  "slug": "tropical-sun-farina-15kg-30",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 9.35,
+  "image": "/products/image30.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0030"
+ },
+ {
+  "num": 31,
+  "name": "TROPICAL SUN Caribbean mango chutney 170g",
+  "slug": "tropical-sun-caribbean-mango-chutney-170g-31",
+  "brand": "Tropical Sun",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image31.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0031"
+ },
+ {
+  "num": 32,
+  "name": "AFRICAN BEAUTY Pure red palm oil 0.5litres",
+  "slug": "african-beauty-pure-red-palm-oil-05litres-32",
+  "brand": "African Beauty",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.81,
+  "image": "/products/image32.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0032"
+ },
+ {
+  "num": 33,
+  "name": "Tropical Sun Mashed Potatoes 1.5kg",
+  "slug": "tropical-sun-mashed-potatoes-15kg-33",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 9.23,
+  "image": "/products/image33.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0033"
+ },
+ {
+  "num": 34,
+  "name": "MAMA'S PRIDE Shito african pepper sauce HOT 350G",
+  "slug": "mamas-pride-shito-african-pepper-sauce-hot-350g-34",
+  "brand": "Mama'S Pride",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.84,
+  "image": "/products/image34.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0034"
+ },
+ {
+  "num": 35,
+  "name": "FOOD AFROBEAN Bleached oil 500ml",
+  "slug": "food-afrobean-bleached-oil-500ml-35",
+  "brand": "Food Afrobean",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.97,
+  "image": "/products/image35.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0035"
+ },
+ {
+  "num": 36,
+  "name": "TROPICAL SUN Jamaican jerk seasoning 280g",
+  "slug": "tropical-sun-jamaican-jerk-seasoning-280g-36",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 6.88,
+  "image": "/products/image36.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0036"
+ },
+ {
+  "num": 37,
+  "name": "Food Afrobean Plantain Flour 3kg",
+  "slug": "food-afrobean-plantain-flour-3kg-37",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 18.05,
+  "image": "/products/image37.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0037"
+ },
+ {
+  "num": 38,
+  "name": "AFRICA'S FINEST Shito hot chilli sauce with shrimp 160g",
+  "slug": "africas-finest-shito-hot-chilli-sauce-with-shrimp-160g-38",
+  "brand": "Africa'S Finest",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image38.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0038"
+ },
+ {
+  "num": 39,
+  "name": "GHANA BEST Shito mild chilli sauce with shrimp 160g",
+  "slug": "ghana-best-shito-mild-chilli-sauce-with-shrimp-160g-39",
+  "brand": "Ghana Best",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image39.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0039"
+ },
+ {
+  "num": 40,
+  "name": "MAMA'S PRIDE Shito hot african pepper sauce 160g",
+  "slug": "mamas-pride-shito-hot-african-pepper-sauce-160g-40",
+  "brand": "Mama'S Pride",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image40.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0040"
+ },
+ {
+  "num": 41,
+  "name": "Food Afrobean Tilda Pure Basmati 2kg",
+  "slug": "food-afrobean-tilda-pure-basmati-2kg-41",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.08,
+  "image": "/products/image41.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0041"
+ },
+ {
+  "num": 42,
+  "name": "DUNNS RIVER Jamaican jerk seasoning 300g",
+  "slug": "dunns-river-jamaican-jerk-seasoning-300g-42",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 7.7,
+  "image": "/products/image42.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0042"
+ },
+ {
+  "num": 43,
+  "name": "Food Afrobean Easy Cook Long grain rice 2kg",
+  "slug": "food-afrobean-easy-cook-long-grain-rice-2kg-43",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 11.55,
+  "image": "/products/image43.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0043"
+ },
+ {
+  "num": 44,
+  "name": "Delex Supplies Ofada Rice 1.5kg",
+  "slug": "delex-supplies-ofada-rice-15kg-44",
+  "brand": "Delex",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.73,
+  "image": "/products/image44.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0044"
+ },
+ {
+  "num": 45,
+  "name": "TROPICAL SUN Jamaican jerk sauce 142ml",
+  "slug": "tropical-sun-jamaican-jerk-sauce-142ml-45",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 6.68,
+  "image": "/products/image45.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0045"
+ },
+ {
+  "num": 46,
+  "name": "TROPICWAY Pure red palm oil 500ml",
+  "slug": "tropicway-pure-red-palm-oil-500ml-46",
+  "brand": "Tropicway",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.08,
+  "image": "/products/image46.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0046"
+ },
+ {
+  "num": 47,
+  "name": "Disha Golden Sella Basmati Rice 2kg",
+  "slug": "disha-golden-sella-basmati-rice-2kg-47",
+  "brand": "Disha",
+  "category_slug": "rice-flour-swallows",
+  "price": 11.73,
+  "image": "/products/image47.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0047"
+ },
+ {
+  "num": 48,
+  "name": "TROPICAL SUN Jamaican guava jelly 340g",
+  "slug": "tropical-sun-jamaican-guava-jelly-340g-48",
+  "brand": "Tropical Sun",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.32,
+  "image": "/products/image48.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0048"
+ },
+ {
+  "num": 49,
+  "name": "Tropical Sun Brown Basmati Rice 2kg",
+  "slug": "tropical-sun-brown-basmati-rice-2kg-49",
+  "brand": "Tropical",
+  "category_slug": "rice-flour-swallows",
+  "price": 11.78,
+  "image": "/products/image49.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0049"
+ },
+ {
+  "num": 50,
+  "name": "OLU OLU Authentic palm oil 500ml",
+  "slug": "olu-olu-authentic-palm-oil-500ml-50",
+  "brand": "Olu Olu",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.64,
+  "image": "/products/image50.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0050"
+ },
+ {
+  "num": 51,
+  "name": "GHANA BEST Zomi palm oil 500ml",
+  "slug": "ghana-best-zomi-palm-oil-500ml-51",
+  "brand": "Ghana Best",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.36,
+  "image": "/products/image51.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0051"
+ },
+ {
+  "num": 52,
+  "name": "GHANA BEST Pure palm oil 500ml",
+  "slug": "ghana-best-pure-palm-oil-500ml-52",
+  "brand": "Ghana Best",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.37,
+  "image": "/products/image52.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0052"
+ },
+ {
+  "num": 53,
+  "name": "Setara Golden Basmati Sella Rice 2kg",
+  "slug": "setara-golden-basmati-sella-rice-2kg-53",
+  "brand": "Setara",
+  "category_slug": "rice-flour-swallows",
+  "price": 11.71,
+  "image": "/products/image53.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0053"
+ },
+ {
+  "num": 54,
+  "name": "Ayoola Foods  Cassava Fufu (Akpu) 1.8kg",
+  "slug": "ayoola-foods-cassava-fufu-akpu-18kg-54",
+  "brand": "Ayoola",
+  "category_slug": "rice-flour-swallows",
+  "price": 10.57,
+  "image": "/products/image54.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0054"
+ },
+ {
+  "num": 55,
+  "name": "AMOY Lihht soy sauce 150ml",
+  "slug": "amoy-lihht-soy-sauce-150ml-55",
+  "brand": "Amoy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image55.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0055"
+ },
+ {
+  "num": 56,
+  "name": "Food Afrobean Cassava Flour 2kg",
+  "slug": "food-afrobean-cassava-flour-2kg-56",
+  "brand": "Food",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.15,
+  "image": "/products/image56.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0056"
+ },
+ {
+  "num": 57,
+  "name": "AMOY Dark soy sauce 150ml",
+  "slug": "amoy-dark-soy-sauce-150ml-57",
+  "brand": "Amoy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image57.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0057"
+ },
+ {
+  "num": 58,
+  "name": "Ayoola Foods Plantain Flour 0.9kg",
+  "slug": "ayoola-foods-plantain-flour-09kg-58",
+  "brand": "Ayoola",
+  "category_slug": "rice-flour-swallows",
+  "price": 5.07,
+  "image": "/products/image58.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0058"
+ },
+ {
+  "num": 59,
+  "name": "MAGGI Liquid seasoning 101ml",
+  "slug": "maggi-liquid-seasoning-101ml-59",
+  "brand": "Maggi",
+  "category_slug": "spices-seasonings",
+  "price": 5.5,
+  "image": "/products/image59.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0059"
+ },
+ {
+  "num": 60,
+  "name": "Ayoola Foods Plantains Flour  1.8kg",
+  "slug": "ayoola-foods-plantains-flour-18kg-60",
+  "brand": "Ayoola",
+  "category_slug": "rice-flour-swallows",
+  "price": 10.46,
+  "image": "/products/image60.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0060"
+ },
+ {
+  "num": 61,
+  "name": "Pure palm oil 1litre",
+  "slug": "pure-palm-oil-1litre-61",
+  "brand": "Pure",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.88,
+  "image": "/products/image61.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0061"
+ },
+ {
+  "num": 62,
+  "name": "OLU OLU Authentic palm oil 1litre",
+  "slug": "olu-olu-authentic-palm-oil-1litre-62",
+  "brand": "Olu Olu",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.49,
+  "image": "/products/image62.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0062"
+ },
+ {
+  "num": 63,
+  "name": "Elkris Oat Flour 1.3kg",
+  "slug": "elkris-oat-flour-13kg-63",
+  "brand": "Elkris",
+  "category_slug": "rice-flour-swallows",
+  "price": 7.94,
+  "image": "/products/image63.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0063"
+ },
+ {
+  "num": 64,
+  "name": "Ghana best  Zomi palm oil 1litre",
+  "slug": "ghana-best-zomi-palm-oil-1litre-64",
+  "brand": "Ghana",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.06,
+  "image": "/products/image64.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0064"
+ },
+ {
+  "num": 65,
+  "name": "GHANA BEST Pure palm oil 1litre",
+  "slug": "ghana-best-pure-palm-oil-1litre-65",
+  "brand": "Ghana Best",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.18,
+  "image": "/products/image65.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0065"
+ },
+ {
+  "num": 66,
+  "name": "TROPICWAYPeanut butter 1kg",
+  "slug": "tropicwaypeanut-butter-1kg-66",
+  "brand": "Tropicwaypeanut",
+  "category_slug": "beans-grains-nuts",
+  "price": 8.34,
+  "image": "/products/image66.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0066"
+ },
+ {
+  "num": 67,
+  "name": "Iwisa Instant Maize Porridge  1kg",
+  "slug": "iwisa-instant-maize-porridge-1kg-67",
+  "brand": "Iwisa",
+  "category_slug": "breakfast-cereals",
+  "price": 10.28,
+  "image": "/products/image67.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0067"
+ },
+ {
+  "num": 68,
+  "name": "ROYAL GHANA Zomi palm oil 1 litre",
+  "slug": "royal-ghana-zomi-palm-oil-1-litre-68",
+  "brand": "Royal Ghana",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.73,
+  "image": "/products/image68.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0068"
+ },
+ {
+  "num": 69,
+  "name": "NAIJA FOODS Cooking red palm oil 1 litre",
+  "slug": "naija-foods-cooking-red-palm-oil-1-litre-69",
+  "brand": "Naija Foods",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.53,
+  "image": "/products/image69.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0069"
+ },
+ {
+  "num": 70,
+  "name": "Tropical Sun Butter Beans 500g",
+  "slug": "tropical-sun-butter-beans-500g-70",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 3.82,
+  "image": "/products/image70.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0070"
+ },
+ {
+  "num": 71,
+  "name": "AFRICAN BEAUTY  Pure red palm oil 1 litre",
+  "slug": "african-beauty-pure-red-palm-oil-1-litre-71",
+  "brand": "African Beauty",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.77,
+  "image": "/products/image71.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0071"
+ },
+ {
+  "num": 72,
+  "name": "KD FOOD Palm oil 1litre",
+  "slug": "kd-food-palm-oil-1litre-72",
+  "brand": "Kd Food",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.71,
+  "image": "/products/image72.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0072"
+ },
+ {
+  "num": 73,
+  "name": "Tropical Sun Butter Beans 2kg",
+  "slug": "tropical-sun-butter-beans-2kg-73",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 16.44,
+  "image": "/products/image73.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0073"
+ },
+ {
+  "num": 74,
+  "name": "AFRICAN BEAUTY Pure red palm oil 4.5litres",
+  "slug": "african-beauty-pure-red-palm-oil-45litres-74",
+  "brand": "African Beauty",
+  "category_slug": "oils-cooking-essentials",
+  "price": 31.88,
+  "image": "/products/image74.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0074"
+ },
+ {
+  "num": 75,
+  "name": "African Harvest Oat Poundo 1.5kg",
+  "slug": "african-harvest-oat-poundo-15kg-75",
+  "brand": "African",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.81,
+  "image": "/products/image75.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0075"
+ },
+ {
+  "num": 76,
+  "name": "TROPICWAY Pure red palm oil 1litre",
+  "slug": "tropicway-pure-red-palm-oil-1litre-76",
+  "brand": "Tropicway",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.16,
+  "image": "/products/image76.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0076"
+ },
+ {
+  "num": 77,
+  "name": "AFRICAN BEAUTY  Pure red palm oil 2 litres",
+  "slug": "african-beauty-pure-red-palm-oil-2-litres-77",
+  "brand": "African Beauty",
+  "category_slug": "oils-cooking-essentials",
+  "price": 13.9,
+  "image": "/products/image77.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0077"
+ },
+ {
+  "num": 78,
+  "name": "L .Divine Foods Oat Fufu 1.5k",
+  "slug": "l-divine-foods-oat-fufu-15k-78",
+  "brand": "L",
+  "category_slug": "rice-flour-swallows",
+  "price": 6.41,
+  "image": "/products/image78.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0078"
+ },
+ {
+  "num": 79,
+  "name": "KTC Pure mustard oil 16.9FL OZ",
+  "slug": "ktc-pure-mustard-oil-169fl-oz-79",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.96,
+  "image": "/products/image79.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0079"
+ },
+ {
+  "num": 80,
+  "name": "TROPICAL SUN Vegetable oil 2 litre",
+  "slug": "tropical-sun-vegetable-oil-2-litre-80",
+  "brand": "Tropical Sun",
+  "category_slug": "oils-cooking-essentials",
+  "price": 13.76,
+  "image": "/products/image80.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0080"
+ },
+ {
+  "num": 81,
+  "name": "KTC Vegetable oil 2 litre",
+  "slug": "ktc-vegetable-oil-2-litre-81",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 13.75,
+  "image": "/products/image81.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0081"
+ },
+ {
+  "num": 82,
+  "name": "KTC Pure sunflower oil 2litre",
+  "slug": "ktc-pure-sunflower-oil-2litre-82",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 14.06,
+  "image": "/products/image82.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0082"
+ },
+ {
+  "num": 83,
+  "name": "DISHA Sunflower oil refined 1 litre",
+  "slug": "disha-sunflower-oil-refined-1-litre-83",
+  "brand": "Disha",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.76,
+  "image": "/products/image83.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0083"
+ },
+ {
+  "num": 84,
+  "name": "Ayoola Foods Rice Flour  0.9kg",
+  "slug": "ayoola-foods-rice-flour-09kg-84",
+  "brand": "Ayoola",
+  "category_slug": "rice-flour-swallows",
+  "price": 5.48,
+  "image": "/products/image84.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0084"
+ },
+ {
+  "num": 85,
+  "name": "ROPICAL SUN Vegetable oil 1 litre",
+  "slug": "ropical-sun-vegetable-oil-1-litre-85",
+  "brand": "Ropical Sun",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.4,
+  "image": "/products/image85.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0085"
+ },
+ {
+  "num": 86,
+  "name": "KTC Sunflower oil 1 litre",
+  "slug": "ktc-sunflower-oil-1-litre-86",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.9,
+  "image": "/products/image86.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0086"
+ },
+ {
+  "num": 87,
+  "name": "KTC  Vegetable oil 1 litre",
+  "slug": "ktc-vegetable-oil-1-litre-87",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 6.72,
+  "image": "/products/image87.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0087"
+ },
+ {
+  "num": 88,
+  "name": "ROYAL NIGERIA Pure red palm oil 1 litre",
+  "slug": "royal-nigeria-pure-red-palm-oil-1-litre-88",
+  "brand": "Royal Nigeria",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.5,
+  "image": "/products/image88.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0088"
+ },
+ {
+  "num": 89,
+  "name": "Iwisa Maize Meal 1kg",
+  "slug": "iwisa-maize-meal-1kg-89",
+  "brand": "Iwisa",
+  "category_slug": "rice-flour-swallows",
+  "price": 6.01,
+  "image": "/products/image89.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0089"
+ },
+ {
+  "num": 90,
+  "name": "BANGA Red palm oil  4litres",
+  "slug": "banga-red-palm-oil-4litres-90",
+  "brand": "Banga",
+  "category_slug": "oils-cooking-essentials",
+  "price": 27.59,
+  "image": "/products/image90.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0090"
+ },
+ {
+  "num": 91,
+  "name": "BANGA Red palm oil 2 litre",
+  "slug": "banga-red-palm-oil-2-litre-91",
+  "brand": "Banga",
+  "category_slug": "oils-cooking-essentials",
+  "price": 13.55,
+  "image": "/products/image91.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0091"
+ },
+ {
+  "num": 92,
+  "name": "NAIJA FOODS Cooking red palm oil 2 litres",
+  "slug": "naija-foods-cooking-red-palm-oil-2-litres-92",
+  "brand": "Naija Foods",
+  "category_slug": "oils-cooking-essentials",
+  "price": 13.61,
+  "image": "/products/image92.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0092"
+ },
+ {
+  "num": 93,
+  "name": "African Harvest  Plantain Fufu 4kg",
+  "slug": "african-harvest-plantain-fufu-4kg-93",
+  "brand": "African",
+  "category_slug": "rice-flour-swallows",
+  "price": 24.13,
+  "image": "/products/image93.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0093"
+ },
+ {
+  "num": 94,
+  "name": "OLU OLU Authentic palm oil 2 litres",
+  "slug": "olu-olu-authentic-palm-oil-2-litres-94",
+  "brand": "Olu Olu",
+  "category_slug": "oils-cooking-essentials",
+  "price": 14.29,
+  "image": "/products/image94.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0094"
+ },
+ {
+  "num": 95,
+  "name": "OLU OLU Authentic palm oil 4 litres",
+  "slug": "olu-olu-authentic-palm-oil-4-litres-95",
+  "brand": "Olu Olu",
+  "category_slug": "oils-cooking-essentials",
+  "price": 27.92,
+  "image": "/products/image95.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil",
+   "palm_oil"
+  ],
+  "sku": "AFB-0095"
+ },
+ {
+  "num": 96,
+  "name": "African Harvest Plantain Fufu 1.5kg",
+  "slug": "african-harvest-plantain-fufu-15kg-96",
+  "brand": "African",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.56,
+  "image": "/products/image96.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0096"
+ },
+ {
+  "num": 97,
+  "name": "GraceCo Foods Plantain Foods 1kg",
+  "slug": "graceco-foods-plantain-foods-1kg-97",
+  "brand": "Graceco",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.88,
+  "image": "/products/image97.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0097"
+ },
+ {
+  "num": 98,
+  "name": "TVS Sunflower oil 3 litres",
+  "slug": "tvs-sunflower-oil-3-litres-98",
+  "brand": "Tvs",
+  "category_slug": "oils-cooking-essentials",
+  "price": 21.5,
+  "image": "/products/image98.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0098"
+ },
+ {
+  "num": 99,
+  "name": "Delex Supplies Unripe Plantain Flour 1kg",
+  "slug": "delex-supplies-unripe-plantain-flour-1kg-99",
+  "brand": "Delex",
+  "category_slug": "rice-flour-swallows",
+  "price": 6.03,
+  "image": "/products/image99.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0099"
+ },
+ {
+  "num": 100,
+  "name": "KTC  Vegetable oil 5 litres",
+  "slug": "ktc-vegetable-oil-5-litres-100",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 35.47,
+  "image": "/products/image100.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0100"
+ },
+ {
+  "num": 101,
+  "name": "KTC Sunflower oil 5 litres",
+  "slug": "ktc-sunflower-oil-5-litres-101",
+  "brand": "Ktc",
+  "category_slug": "oils-cooking-essentials",
+  "price": 35.36,
+  "image": "/products/image101.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0101"
+ },
+ {
+  "num": 102,
+  "name": "DISHA Refined sunflower oil 5 litres",
+  "slug": "disha-refined-sunflower-oil-5-litres-102",
+  "brand": "Disha",
+  "category_slug": "oils-cooking-essentials",
+  "price": 34.51,
+  "image": "/products/image102.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0102"
+ },
+ {
+  "num": 103,
+  "name": "MORNFLAKE Whole pounded oat flour 2kg",
+  "slug": "mornflake-whole-pounded-oat-flour-2kg-103",
+  "brand": "Mornflake",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.22,
+  "image": "/products/image103.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0103"
+ },
+ {
+  "num": 104,
+  "name": "OLU OLU Poundo iyan 1.2kg",
+  "slug": "olu-olu-poundo-iyan-12kg-104",
+  "brand": "Olu Olu",
+  "category_slug": "rice-flour-swallows",
+  "price": 7.38,
+  "image": "/products/image104.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0104"
+ },
+ {
+  "num": 105,
+  "name": "OLU OLU Poundi iyan 4kg",
+  "slug": "olu-olu-poundi-iyan-4kg-105",
+  "brand": "Olu Olu",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 32.04,
+  "image": "/products/image105.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0105"
+ },
+ {
+  "num": 106,
+  "name": "AFRICAN HARVEST Poundo iyan 1.5kg",
+  "slug": "african-harvest-poundo-iyan-15kg-106",
+  "brand": "African Harvest",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.77,
+  "image": "/products/image106.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0106"
+ },
+ {
+  "num": 107,
+  "name": "AFRICAN HARVEST Poundo iyan 4kg",
+  "slug": "african-harvest-poundo-iyan-4kg-107",
+  "brand": "African Harvest",
+  "category_slug": "rice-flour-swallows",
+  "price": 24.14,
+  "image": "/products/image107.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0107"
+ },
+ {
+  "num": 108,
+  "name": "OLU Poundo iyan 8kg",
+  "slug": "olu-poundo-iyan-8kg-108",
+  "brand": "Olu",
+  "category_slug": "rice-flour-swallows",
+  "price": 47.61,
+  "image": "/products/image108.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0108"
+ },
+ {
+  "num": 109,
+  "name": "FOOD AFROBEAN Honey beans 10kg",
+  "slug": "food-afrobean-honey-beans-10kg-109",
+  "brand": "Food Afrobean",
+  "category_slug": "beans-grains-nuts",
+  "price": 59.99,
+  "image": "/products/image109.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0109"
+ },
+ {
+  "num": 110,
+  "name": "AASHIRVAAD Whole wheat atta 5kg",
+  "slug": "aashirvaad-whole-wheat-atta-5kg-110",
+  "brand": "Aashirvaad",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 39.95,
+  "image": "/products/image110.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0110"
+ },
+ {
+  "num": 111,
+  "name": "BBAASHIRVAAD Atta with multigrains 5kg",
+  "slug": "bbaashirvaad-atta-with-multigrains-5kg-111",
+  "brand": "Bbaashirvaad",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 40.45,
+  "image": "/products/image111.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0111"
+ },
+ {
+  "num": 112,
+  "name": "Golden Penny Foods Semovita 2kg",
+  "slug": "golden-penny-foods-semovita-2kg-112",
+  "brand": "Golden",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.38,
+  "image": "/products/image112.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0112"
+ },
+ {
+  "num": 113,
+  "name": "Golden Penny Foods Semovita 2.5kg",
+  "slug": "golden-penny-foods-semovita-25kg-113",
+  "brand": "Golden",
+  "category_slug": "rice-flour-swallows",
+  "price": 14.76,
+  "image": "/products/image113.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0113"
+ },
+ {
+  "num": 114,
+  "name": "Honeywell Semolina 2kg",
+  "slug": "honeywell-semolina-2kg-114",
+  "brand": "Honeywell",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.0,
+  "image": "/products/image114.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0114"
+ },
+ {
+  "num": 115,
+  "name": "ENIOLA FOODS Poundo iyan 4kg",
+  "slug": "eniola-foods-poundo-iyan-4kg-115",
+  "brand": "Eniola Foods",
+  "category_slug": "rice-flour-swallows",
+  "price": 23.68,
+  "image": "/products/image115.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0115"
+ },
+ {
+  "num": 116,
+  "name": "ENIOLA FOODS Poundo iyan 1.5kg",
+  "slug": "eniola-foods-poundo-iyan-15kg-116",
+  "brand": "Eniola Foods",
+  "category_slug": "rice-flour-swallows",
+  "price": 9.41,
+  "image": "/products/image116.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0116"
+ },
+ {
+  "num": 117,
+  "name": "AYOOLA FOODS Pounds yam flour 1.8kg",
+  "slug": "ayoola-foods-pounds-yam-flour-18kg-117",
+  "brand": "Ayoola Foods",
+  "category_slug": "rice-flour-swallows",
+  "price": 11.17,
+  "image": "/products/image117.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0117"
+ },
+ {
+  "num": 118,
+  "name": "AYOOLA FOODS Poundo yam flour 0.9kg",
+  "slug": "ayoola-foods-poundo-yam-flour-09kg-118",
+  "brand": "Ayoola Foods",
+  "category_slug": "rice-flour-swallows",
+  "price": 5.2,
+  "image": "/products/image118.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0118"
+ },
+ {
+  "num": 119,
+  "name": "AYOOLA FOODS Poundo yam flour 4.5kg",
+  "slug": "ayoola-foods-poundo-yam-flour-45kg-119",
+  "brand": "Ayoola Foods",
+  "category_slug": "rice-flour-swallows",
+  "price": 27.14,
+  "image": "/products/image119.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0119"
+ },
+ {
+  "num": 120,
+  "name": "FOOD AFROBEAN Yellow garri 4kg",
+  "slug": "food-afrobean-yellow-garri-4kg-120",
+  "brand": "Food Afrobean",
+  "category_slug": "rice-flour-swallows",
+  "price": 24.11,
+  "image": "/products/image120.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0120"
+ },
+ {
+  "num": 121,
+  "name": "FOOD AFROBEAN Garri ijebu 4kg",
+  "slug": "food-afrobean-garri-ijebu-4kg-121",
+  "brand": "Food Afrobean",
+  "category_slug": "rice-flour-swallows",
+  "price": 23.65,
+  "image": "/products/image121.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0121"
+ },
+ {
+  "num": 122,
+  "name": "DISHA Fufu flakes 5kg",
+  "slug": "disha-fufu-flakes-5kg-122",
+  "brand": "Disha",
+  "category_slug": "rice-flour-swallows",
+  "price": 30.26,
+  "image": "/products/image122.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0122"
+ },
+ {
+  "num": 123,
+  "name": "TROPICAL SUN popcorn 500g",
+  "slug": "tropical-sun-popcorn-500g-123",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.04,
+  "image": "/products/image123.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0123"
+ },
+ {
+  "num": 124,
+  "name": "Honeywell Semolina 5kg",
+  "slug": "honeywell-semolina-5kg-124",
+  "brand": "Honeywell",
+  "category_slug": "rice-flour-swallows",
+  "price": 30.28,
+  "image": "/products/image124.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0124"
+ },
+ {
+  "num": 125,
+  "name": "AFRICAN HARVEST Poundo iyan 8kg",
+  "slug": "african-harvest-poundo-iyan-8kg-125",
+  "brand": "African Harvest",
+  "category_slug": "rice-flour-swallows",
+  "price": 48.03,
+  "image": "/products/image125.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0125"
+ },
+ {
+  "num": 126,
+  "name": "Golden Penny Semovita 5kg",
+  "slug": "golden-penny-semovita-5kg-126",
+  "brand": "Golden",
+  "category_slug": "rice-flour-swallows",
+  "price": 29.5,
+  "image": "/products/image126.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0126"
+ },
+ {
+  "num": 127,
+  "name": "OLA OLA Pounded iyan instant 4.6kg",
+  "slug": "ola-ola-pounded-iyan-instant-46kg-127",
+  "brand": "Ola Ola",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 36.62,
+  "image": "/products/image127.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0127"
+ },
+ {
+  "num": 128,
+  "name": "OLA OLA Pounded yam 1.8kg",
+  "slug": "ola-ola-pounded-yam-18kg-128",
+  "brand": "Ola Ola",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 13.92,
+  "image": "/products/image128.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0128"
+ },
+ {
+  "num": 129,
+  "name": "Instant plantain fufu flour 2kg",
+  "slug": "instant-plantain-fufu-flour-2kg-129",
+  "brand": "Instant",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.43,
+  "image": "/products/image129.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0129"
+ },
+ {
+  "num": 130,
+  "name": "Iwisa  Maize Meal 10kg",
+  "slug": "iwisa-maize-meal-10kg-130",
+  "brand": "Iwisa",
+  "category_slug": "rice-flour-swallows",
+  "price": 59.99,
+  "image": "/products/image130.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0130"
+ },
+ {
+  "num": 131,
+  "name": "Iwisa Maize Meal 5kg",
+  "slug": "iwisa-maize-meal-5kg-131",
+  "brand": "Iwisa",
+  "category_slug": "rice-flour-swallows",
+  "price": 30.33,
+  "image": "/products/image131.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0131"
+ },
+ {
+  "num": 132,
+  "name": "FOOD AFROBEAN White garri 1.5kg",
+  "slug": "food-afrobean-white-garri-15kg-132",
+  "brand": "Food Afrobean",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.81,
+  "image": "/products/image132.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0132"
+ },
+ {
+  "num": 133,
+  "name": "ISLAND BEST Red kidney beans 1.5kg",
+  "slug": "island-best-red-kidney-beans-15kg-133",
+  "brand": "Island Best",
+  "category_slug": "beans-grains-nuts",
+  "price": 11.56,
+  "image": "/products/image133.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0133"
+ },
+ {
+  "num": 134,
+  "name": "Iwisa Maize Meal 2kg",
+  "slug": "iwisa-maize-meal-2kg-134",
+  "brand": "Iwisa",
+  "category_slug": "rice-flour-swallows",
+  "price": 12.38,
+  "image": "/products/image134.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0134"
+ },
+ {
+  "num": 135,
+  "name": "TOP OP Soya beans 500g",
+  "slug": "top-op-soya-beans-500g-135",
+  "brand": "Top Op",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.45,
+  "image": "/products/image135.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0135"
+ },
+ {
+  "num": 136,
+  "name": "TOP OP Soya beans 2kg",
+  "slug": "top-op-soya-beans-2kg-136",
+  "brand": "Top Op",
+  "category_slug": "beans-grains-nuts",
+  "price": 15.59,
+  "image": "/products/image136.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0136"
+ },
+ {
+  "num": 137,
+  "name": "FOOD AFROBEAN Garri ijebu 1.5kg",
+  "slug": "food-afrobean-garri-ijebu-15kg-137",
+  "brand": "Food Afrobean",
+  "category_slug": "rice-flour-swallows",
+  "price": 8.99,
+  "image": "/products/image137.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0137"
+ },
+ {
+  "num": 138,
+  "name": "Tropical Sun Crab eye beans 500g",
+  "slug": "tropical-sun-crab-eye-beans-500g-138",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 3.57,
+  "image": "/products/image138.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "beans"
+  ],
+  "sku": "AFB-0138"
+ },
+ {
+  "num": 139,
+  "name": "FOOD AFROBEAN Yellow garri 1.5kg",
+  "slug": "food-afrobean-yellow-garri-15kg-139",
+  "brand": "Food Afrobean",
+  "category_slug": "rice-flour-swallows",
+  "price": 9.26,
+  "image": "/products/image139.webp",
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0139"
+ },
+ {
+  "num": 140,
+  "name": "DUNNS RIVER  Hot curry powder 100g",
+  "slug": "dunns-river-hot-curry-powder-100g-140",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 5.54,
+  "image": "/products/image140.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0140"
+ },
+ {
+  "num": 141,
+  "name": "OLD BAY SEASONING 280g",
+  "slug": "old-bay-seasoning-280g-141",
+  "brand": "Old",
+  "category_slug": "spices-seasonings",
+  "price": 6.63,
+  "image": "/products/image141.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0141"
+ },
+ {
+  "num": 142,
+  "name": "BADIA Saz\u00f3n Caliente seasoning (hot) 163g",
+  "slug": "badia-saz\u00f3n-caliente-seasoning-hot-163g-142",
+  "brand": "Badia",
+  "category_slug": "spices-seasonings",
+  "price": 8.1,
+  "image": "/products/image142.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0142"
+ },
+ {
+  "num": 143,
+  "name": "TROPICAL SUN Adobo Seasoning 100g",
+  "slug": "tropical-sun-adobo-seasoning-100g-143",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 5.1,
+  "image": "/products/image143.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0143"
+ },
+ {
+  "num": 144,
+  "name": "GINO Peppered chicken seasoning mix 50g",
+  "slug": "gino-peppered-chicken-seasoning-mix-50g-144",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image144.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0144"
+ },
+ {
+  "num": 145,
+  "name": "DUNNS RIVER Chicken seasoning 100g",
+  "slug": "dunns-river-chicken-seasoning-100g-145",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 5.74,
+  "image": "/products/image145.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0145"
+ },
+ {
+  "num": 146,
+  "name": "DUNNS RIVER Ground Pimento 80g",
+  "slug": "dunns-river-ground-pimento-80g-146",
+  "brand": "Dunns River",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image146.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0146"
+ },
+ {
+  "num": 147,
+  "name": "DUNNS RIVER All Purpose Seasoning 100g",
+  "slug": "dunns-river-all-purpose-seasoning-100g-147",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.42,
+  "image": "/products/image147.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0147"
+ },
+ {
+  "num": 148,
+  "name": "Moi moi cooking pouch",
+  "slug": "moi-moi-cooking-pouch-148",
+  "brand": "Moi",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.04,
+  "image": "/products/image148.webp",
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "moi_moi_pouch"
+  ],
+  "sku": "AFB-0148"
+ },
+ {
+  "num": 149,
+  "name": "BADIA Adobo Seasoning 198.4g",
+  "slug": "badia-adobo-seasoning-1984g-149",
+  "brand": "Badia",
+  "category_slug": "spices-seasonings",
+  "price": 10.38,
+  "image": "/products/image149.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0149"
+ },
+ {
+  "num": 150,
+  "name": "DUNNS RIVER Everyday Seasoning 100g",
+  "slug": "dunns-river-everyday-seasoning-100g-150",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.4,
+  "image": "/products/image150.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0150"
+ },
+ {
+  "num": 151,
+  "name": "TROPICAL SUN All Purpose Seasoning 100g",
+  "slug": "tropical-sun-all-purpose-seasoning-100g-151",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 4.62,
+  "image": "/products/image151.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0151"
+ },
+ {
+  "num": 152,
+  "name": "BADIA Paprika (smoked) 56.7g",
+  "slug": "badia-paprika-smoked-567g-152",
+  "brand": "Badia",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image152.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0152"
+ },
+ {
+  "num": 153,
+  "name": "Nestle cereal Wheat & Honey Ble, Miel 1kg",
+  "slug": "nestle-cereal-wheat-honey-ble-miel-1kg-153",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.15,
+  "image": "/products/image153.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0153"
+ },
+ {
+  "num": 154,
+  "name": "TROPICAL SUN Chilli Powder 100g",
+  "slug": "tropical-sun-chilli-powder-100g-154",
+  "brand": "Tropical Sun",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image154.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0154"
+ },
+ {
+  "num": 155,
+  "name": "DELEX SUPPLIES Banga Spices 100g",
+  "slug": "delex-supplies-banga-spices-100g-155",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 5.04,
+  "image": "/products/image155.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_spice"
+  ],
+  "sku": "AFB-0155"
+ },
+ {
+  "num": 156,
+  "name": "Nigerian Okpei 20g",
+  "slug": "nigerian-okpei-20g-156",
+  "brand": "Nigerian",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image156.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0156"
+ },
+ {
+  "num": 157,
+  "name": "DUNNS RIVER Ground Nutmeg 100g",
+  "slug": "dunns-river-ground-nutmeg-100g-157",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.44,
+  "image": "/products/image157.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0157"
+ },
+ {
+  "num": 158,
+  "name": "DELEX SUPPLIES Curry Powder 100g",
+  "slug": "delex-supplies-curry-powder-100g-158",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 4.68,
+  "image": "/products/image158.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0158"
+ },
+ {
+  "num": 159,
+  "name": "DUNNS RIVER Fish Seasoning 100g",
+  "slug": "dunns-river-fish-seasoning-100g-159",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 5.18,
+  "image": "/products/image159.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0159"
+ },
+ {
+  "num": 160,
+  "name": "DELEX SUPPLIES PepperSoup Spice 120g",
+  "slug": "delex-supplies-peppersoup-spice-120g-160",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 5.46,
+  "image": "/products/image160.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "pepper_soup_spice"
+  ],
+  "sku": "AFB-0160"
+ },
+ {
+  "num": 161,
+  "name": "DELEX SUPPLIES Efo-Riro Spice 120g",
+  "slug": "delex-supplies-efo-riro-spice-120g-161",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 5.44,
+  "image": "/products/image161.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "efo_riro_spice"
+  ],
+  "sku": "AFB-0161"
+ },
+ {
+  "num": 162,
+  "name": "DUNNS RIVER Jerk Seasoning 100g",
+  "slug": "dunns-river-jerk-seasoning-100g-162",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.14,
+  "image": "/products/image162.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0162"
+ },
+ {
+  "num": 163,
+  "name": "TROPICAL SUN Carribean Curry Powder (mild) 100g",
+  "slug": "tropical-sun-carribean-curry-powder-mild-100g-163",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 5.26,
+  "image": "/products/image163.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0163"
+ },
+ {
+  "num": 164,
+  "name": "DUNNS RIVER Lemon Jerk Seasoning 100g",
+  "slug": "dunns-river-lemon-jerk-seasoning-100g-164",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.46,
+  "image": "/products/image164.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0164"
+ },
+ {
+  "num": 165,
+  "name": "DUNNS RIVER All Purpose Seasoning 100g",
+  "slug": "dunns-river-all-purpose-seasoning-100g-165",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 5.82,
+  "image": "/products/image165.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0165"
+ },
+ {
+  "num": 166,
+  "name": "AFRICAS FINEST Obe Ata Seasoning  pepper soup seasoning 100g",
+  "slug": "africas-finest-obe-ata-seasoning-pepper-soup-seasoning-100g-166",
+  "brand": "Africas Finest",
+  "category_slug": "spices-seasonings",
+  "price": 5.72,
+  "image": "/products/image166.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "pepper_soup_spice"
+  ],
+  "sku": "AFB-0166"
+ },
+ {
+  "num": 167,
+  "name": "DUNNS RIVER Mild Curry Powder 100g",
+  "slug": "dunns-river-mild-curry-powder-100g-167",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.14,
+  "image": "/products/image167.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0167"
+ },
+ {
+  "num": 168,
+  "name": "DUNNS RIVER Garlic Salt 70g",
+  "slug": "dunns-river-garlic-salt-70g-168",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image168.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0168"
+ },
+ {
+  "num": 169,
+  "name": "KNORR Original Aromat All purpose seasoning 90g",
+  "slug": "knorr-original-aromat-all-purpose-seasoning-90g-169",
+  "brand": "Knorr",
+  "category_slug": "spices-seasonings",
+  "price": 4.84,
+  "image": "/products/image169.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0169"
+ },
+ {
+  "num": 170,
+  "name": "DUNNS RIVER Beef & Steak Seasoning 100g",
+  "slug": "dunns-river-beef-steak-seasoning-100g-170",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.42,
+  "image": "/products/image170.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0170"
+ },
+ {
+  "num": 171,
+  "name": "DUNNS RIVER Tropical Seasoning 100g",
+  "slug": "dunns-river-tropical-seasoning-100g-171",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 4.26,
+  "image": "/products/image171.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0171"
+ },
+ {
+  "num": 172,
+  "name": "TROPICAL SUN Jollof Seasoning 100g",
+  "slug": "tropical-sun-jollof-seasoning-100g-172",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 5.88,
+  "image": "/products/image172.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0172"
+ },
+ {
+  "num": 173,
+  "name": "DELEX SUPPLIES Alligator Pepper 100g",
+  "slug": "delex-supplies-alligator-pepper-100g-173",
+  "brand": "Delex Supplies",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image173.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0173"
+ },
+ {
+  "num": 174,
+  "name": "TROPICAL SUN Meat Seasoning 100g",
+  "slug": "tropical-sun-meat-seasoning-100g-174",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 4.94,
+  "image": "/products/image174.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0174"
+ },
+ {
+  "num": 175,
+  "name": "TROPICAL SUN Beef flavoured stock powder 1kg",
+  "slug": "tropical-sun-beef-flavoured-stock-powder-1kg-175",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 25.28,
+  "image": "/products/image175.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0175"
+ },
+ {
+  "num": 176,
+  "name": "TROPICAL SUN Fish flavoured stock powder  1kg",
+  "slug": "tropical-sun-fish-flavoured-stock-powder-1kg-176",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 25.31,
+  "image": "/products/image176.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0176"
+ },
+ {
+  "num": 177,
+  "name": "TROPICAL SUN Jollof rice seasoning 1kg",
+  "slug": "tropical-sun-jollof-rice-seasoning-1kg-177",
+  "brand": "Tropical Sun",
+  "category_slug": "rice-flour-swallows",
+  "price": 5.69,
+  "image": "/products/image177.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0177"
+ },
+ {
+  "num": 178,
+  "name": "TROPICAL SUN Crayfish flavoured stock powder 1kg",
+  "slug": "tropical-sun-crayfish-flavoured-stock-powder-1kg-178",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 24.6,
+  "image": "/products/image178.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "crayfish"
+  ],
+  "sku": "AFB-0178"
+ },
+ {
+  "num": 179,
+  "name": "JUMBO Chicken stock 1kg",
+  "slug": "jumbo-chicken-stock-1kg-179",
+  "brand": "Jumbo",
+  "category_slug": "spices-seasonings",
+  "price": 24.93,
+  "image": "/products/image179.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0179"
+ },
+ {
+  "num": 180,
+  "name": "JUMBO Aroma All Purpose 1kg",
+  "slug": "jumbo-aroma-all-purpose-1kg-180",
+  "brand": "Jumbo",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.92,
+  "image": "/products/image180.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0180"
+ },
+ {
+  "num": 181,
+  "name": "JUMBO Beef flavoured stock 1kg",
+  "slug": "jumbo-beef-flavoured-stock-1kg-181",
+  "brand": "Jumbo",
+  "category_slug": "spices-seasonings",
+  "price": 24.97,
+  "image": "/products/image181.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0181"
+ },
+ {
+  "num": 182,
+  "name": "CHEFBAS FOODS Nkwobi & Isiewu spice powder 100g",
+  "slug": "chefbas-foods-nkwobi-isiewu-spice-powder-100g-182",
+  "brand": "Chefbas Foods",
+  "category_slug": "spices-seasonings",
+  "price": 5.46,
+  "image": "/products/image182.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0182"
+ },
+ {
+  "num": 183,
+  "name": "AMA WONDA Thyme leaves 250g",
+  "slug": "ama-wonda-thyme-leaves-250g-183",
+  "brand": "Ama Wonda",
+  "category_slug": "spices-seasonings",
+  "price": 6.42,
+  "image": "/products/image183.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0183"
+ },
+ {
+  "num": 184,
+  "name": "EUROMA Thyme Leaves 250g",
+  "slug": "euroma-thyme-leaves-250g-184",
+  "brand": "Euroma",
+  "category_slug": "spices-seasonings",
+  "price": 6.73,
+  "image": "/products/image184.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0184"
+ },
+ {
+  "num": 185,
+  "name": "TIGER Curry powder 80g",
+  "slug": "tiger-curry-powder-80g-185",
+  "brand": "Tiger",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image185.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0185"
+ },
+ {
+  "num": 186,
+  "name": "KINGS Cooking Margarine 250g",
+  "slug": "kings-cooking-margarine-250g-186",
+  "brand": "Kings",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image186.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0186"
+ },
+ {
+  "num": 187,
+  "name": "AJI-NO-MOTO Umami Seasoning 250g",
+  "slug": "aji-no-moto-umami-seasoning-250g-187",
+  "brand": "Aji-No-Moto",
+  "category_slug": "spices-seasonings",
+  "price": 6.09,
+  "image": "/products/image187.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0187"
+ },
+ {
+  "num": 188,
+  "name": "LOTUS Flavour Enhancer 100g",
+  "slug": "lotus-flavour-enhancer-100g-188",
+  "brand": "Lotus",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image188.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0188"
+ },
+ {
+  "num": 189,
+  "name": "LION  Dried Thyme 25g pack of 12",
+  "slug": "lion-dried-thyme-25g-pack-of-12-189",
+  "brand": "Lion",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image189.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0189"
+ },
+ {
+  "num": 190,
+  "name": "TIGER Rosemary leaves 40g",
+  "slug": "tiger-rosemary-leaves-40g-190",
+  "brand": "Tiger",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image190.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0190"
+ },
+ {
+  "num": 191,
+  "name": "DELEX SUPPLIES  Cameroon pepper 100g",
+  "slug": "delex-supplies-cameroon-pepper-100g-191",
+  "brand": "Delex Supplies",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image191.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0191"
+ },
+ {
+  "num": 192,
+  "name": "DELEX SUPPLIES  Jollof Rice Spice 100g",
+  "slug": "delex-supplies-jollof-rice-spice-100g-192",
+  "brand": "Delex Supplies",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": "/products/image192.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0192"
+ },
+ {
+  "num": 193,
+  "name": "DUCROS Curry Powder Pack of 12 x 25g",
+  "slug": "ducros-curry-powder-pack-of-12-x-25g-193",
+  "brand": "Ducros",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image193.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0193"
+ },
+ {
+  "num": 194,
+  "name": "DUCROS Dried Thyme Pack of 12 x 10g",
+  "slug": "ducros-dried-thyme-pack-of-12-x-10g-194",
+  "brand": "Ducros",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image194.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0194"
+ },
+ {
+  "num": 195,
+  "name": "LION Dried Thyme 10g",
+  "slug": "lion-dried-thyme-10g-195",
+  "brand": "Lion",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image195.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0195"
+ },
+ {
+  "num": 196,
+  "name": "DUCROS Dried Thyme 10g",
+  "slug": "ducros-dried-thyme-10g-196",
+  "brand": "Ducros",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image196.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0196"
+ },
+ {
+  "num": 197,
+  "name": "TIGER Curry Masala 230g",
+  "slug": "tiger-curry-masala-230g-197",
+  "brand": "Tiger",
+  "category_slug": "spices-seasonings",
+  "price": 6.11,
+  "image": "/products/image197.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0197"
+ },
+ {
+  "num": 198,
+  "name": "LION Curry Powder 25g",
+  "slug": "lion-curry-powder-25g-198",
+  "brand": "Lion",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image198.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0198"
+ },
+ {
+  "num": 199,
+  "name": "ONGA classic 10g",
+  "slug": "onga-classic-10g-199",
+  "brand": "Onga",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image199.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0199"
+ },
+ {
+  "num": 200,
+  "name": "ONGA Classic 40g",
+  "slug": "onga-classic-40g-200",
+  "brand": "Onga",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image200.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0200"
+ },
+ {
+  "num": 201,
+  "name": "SIMAS Cooking Margarine 250g",
+  "slug": "simas-cooking-margarine-250g-201",
+  "brand": "Simas",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.34,
+  "image": "/products/image201.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0201"
+ },
+ {
+  "num": 202,
+  "name": "TIGER Curry Powder 450g",
+  "slug": "tiger-curry-powder-450g-202",
+  "brand": "Tiger",
+  "category_slug": "spices-seasonings",
+  "price": 11.72,
+  "image": "/products/image202.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0202"
+ },
+ {
+  "num": 203,
+  "name": "GINO Pepper & onion Tomato seasoning mix 50g",
+  "slug": "gino-pepper-onion-tomato-seasoning-mix-50g-203",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image203.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0203"
+ },
+ {
+  "num": 204,
+  "name": "GINO HERBS & SPICES Curry Powder 5g",
+  "slug": "gino-herbs-spices-curry-powder-5g-204",
+  "brand": "Gino Herbs & Spices",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image204.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0204"
+ },
+ {
+  "num": 205,
+  "name": "GINO HERBS & SPICES Dried Thyme 3g",
+  "slug": "gino-herbs-spices-dried-thyme-3g-205",
+  "brand": "Gino Herbs & Spices",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image205.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "thyme"
+  ],
+  "sku": "AFB-0205"
+ },
+ {
+  "num": 206,
+  "name": "GINO Party Jollof Tomato seasoning mix 50g",
+  "slug": "gino-party-jollof-tomato-seasoning-mix-50g-206",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image206.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [
+   "tomato_base",
+   "jollof_seasoning"
+  ],
+  "sku": "AFB-0206"
+ },
+ {
+  "num": 207,
+  "name": "GINO Tomato Mix 60g",
+  "slug": "gino-tomato-mix-60g-207",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image207.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0207"
+ },
+ {
+  "num": 208,
+  "name": "SAPNA Ginger Paste 1kg",
+  "slug": "sapna-ginger-paste-1kg-208",
+  "brand": "Sapna",
+  "category_slug": "spices-seasonings",
+  "price": 24.9,
+  "image": "/products/image208.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0208"
+ },
+ {
+  "num": 209,
+  "name": "ARGO Corn Starch 454g",
+  "slug": "argo-corn-starch-454g-209",
+  "brand": "Argo",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.19,
+  "image": "/products/image209.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0209"
+ },
+ {
+  "num": 210,
+  "name": "SAPNA Garlic Paste 1kg",
+  "slug": "sapna-garlic-paste-1kg-210",
+  "brand": "Sapna",
+  "category_slug": "spices-seasonings",
+  "price": 24.88,
+  "image": "/products/image210.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0210"
+ },
+ {
+  "num": 211,
+  "name": "SAPNA Ginger Garlic Paste 1kg",
+  "slug": "sapna-ginger-garlic-paste-1kg-211",
+  "brand": "Sapna",
+  "category_slug": "spices-seasonings",
+  "price": 25.49,
+  "image": "/products/image211.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0211"
+ },
+ {
+  "num": 212,
+  "name": "TROPICAL SUN Minced Ginger/Garlic Paste 300g",
+  "slug": "tropical-sun-minced-gingergarlic-paste-300g-212",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 7.27,
+  "image": "/products/image212.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0212"
+ },
+ {
+  "num": 213,
+  "name": "SAPNA Ginger Garlic Paste 330g",
+  "slug": "sapna-ginger-garlic-paste-330g-213",
+  "brand": "Sapna",
+  "category_slug": "spices-seasonings",
+  "price": 8.53,
+  "image": "/products/image213.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0213"
+ },
+ {
+  "num": 214,
+  "name": "ARM & HAMMER Pure Baking Soda 453g",
+  "slug": "arm-hammer-pure-baking-soda-453g-214",
+  "brand": "Arm & Hammer",
+  "category_slug": "spices-seasonings",
+  "price": 11.28,
+  "image": "/products/image214.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0214"
+ },
+ {
+  "num": 215,
+  "name": "KTC Minced Ginger Paste 210g",
+  "slug": "ktc-minced-ginger-paste-210g-215",
+  "brand": "Ktc",
+  "category_slug": "spices-seasonings",
+  "price": 5.17,
+  "image": "/products/image215.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0215"
+ },
+ {
+  "num": 216,
+  "name": "RAJAH Whole Cloves 50g 100% pure",
+  "slug": "rajah-whole-cloves-50g-100-pure-216",
+  "brand": "Rajah",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image216.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0216"
+ },
+ {
+  "num": 217,
+  "name": "FOOD AFROBEAN Shea Butter 400g",
+  "slug": "food-afrobean-shea-butter-400g-217",
+  "brand": "Food Afrobean",
+  "category_slug": "beauty-personal-care",
+  "price": 7.7,
+  "image": "/products/image217.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0217"
+ },
+ {
+  "num": 218,
+  "name": "RAJAH Garlic Powder 400g",
+  "slug": "rajah-garlic-powder-400g-218",
+  "brand": "Rajah",
+  "category_slug": "spices-seasonings",
+  "price": 10.06,
+  "image": "/products/image218.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0218"
+ },
+ {
+  "num": 219,
+  "name": "RAJAH  Bay Leaves 10g 100% pure",
+  "slug": "rajah-bay-leaves-10g-100-pure-219",
+  "brand": "Rajah",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image219.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0219"
+ },
+ {
+  "num": 220,
+  "name": "RAJAH Jerk Style Seasoning 100g",
+  "slug": "rajah-jerk-style-seasoning-100g-220",
+  "brand": "Rajah",
+  "category_slug": "spices-seasonings",
+  "price": 4.3,
+  "image": "/products/image220.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0220"
+ },
+ {
+  "num": 221,
+  "name": "SAPNA Garlic Paste 330g",
+  "slug": "sapna-garlic-paste-330g-221",
+  "brand": "Sapna",
+  "category_slug": "spices-seasonings",
+  "price": 8.05,
+  "image": "/products/image221.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0221"
+ },
+ {
+  "num": 222,
+  "name": "RO&ROTIMU FOODS African Nutmeg 250g",
+  "slug": "rorotimu-foods-african-nutmeg-250g-222",
+  "brand": "Ro&Rotimu Foods",
+  "category_slug": "spices-seasonings",
+  "price": 6.72,
+  "image": "/products/image222.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0222"
+ },
+ {
+  "num": 223,
+  "name": "BADIA Adobo Seasoning 907g",
+  "slug": "badia-adobo-seasoning-907g-223",
+  "brand": "Badia",
+  "category_slug": "spices-seasonings",
+  "price": 22.75,
+  "image": "/products/image223.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0223"
+ },
+ {
+  "num": 224,
+  "name": "DELEX SUPPLIES Ehuru Seed 120g (African Nutmeg)",
+  "slug": "delex-supplies-ehuru-seed-120g-african-nutmeg-224",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 6.08,
+  "image": "/products/image224.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "ehuru"
+  ],
+  "sku": "AFB-0224"
+ },
+ {
+  "num": 225,
+  "name": "FOOD AFROBEAN Shea Butter 100g",
+  "slug": "food-afrobean-shea-butter-100g-225",
+  "brand": "Food Afrobean",
+  "category_slug": "beauty-personal-care",
+  "price": 2.05,
+  "image": "/products/image225.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0225"
+ },
+ {
+  "num": 226,
+  "name": "SPICITY Fried Rice Seasoning Powder 10g",
+  "slug": "spicity-fried-rice-seasoning-powder-10g-226",
+  "brand": "Spicity",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": "/products/image226.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0226"
+ },
+ {
+  "num": 227,
+  "name": "SPICITY Fried Rice Seasoning Powder 100g",
+  "slug": "spicity-fried-rice-seasoning-powder-100g-227",
+  "brand": "Spicity",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": "/products/image227.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0227"
+ },
+ {
+  "num": 228,
+  "name": "LARSOR PepperSoup Seasoning 100g",
+  "slug": "larsor-peppersoup-seasoning-100g-228",
+  "brand": "Larsor",
+  "category_slug": "spices-seasonings",
+  "price": 5.0,
+  "image": "/products/image228.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "pepper_soup_spice"
+  ],
+  "sku": "AFB-0228"
+ },
+ {
+  "num": 229,
+  "name": "DELEX SUPPLIES Fried Rice Spice 100g",
+  "slug": "delex-supplies-fried-rice-spice-100g-229",
+  "brand": "Delex Supplies",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": "/products/image229.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "rice_base"
+  ],
+  "sku": "AFB-0229"
+ },
+ {
+  "num": 230,
+  "name": "MAMIE'S Super Mix spices 100g",
+  "slug": "mamies-super-mix-spices-100g-230",
+  "brand": "Mamie'S",
+  "category_slug": "spices-seasonings",
+  "price": 4.32,
+  "image": "/products/image230.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0230"
+ },
+ {
+  "num": 231,
+  "name": "LARSOR PepperSoup Seasoning 10g",
+  "slug": "larsor-peppersoup-seasoning-10g-231",
+  "brand": "Larsor",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image231.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "pepper_soup_spice"
+  ],
+  "sku": "AFB-0231"
+ },
+ {
+  "num": 232,
+  "name": "GRACE Vienna Sausages hot&spicy 200g",
+  "slug": "grace-vienna-sausages-hotspicy-200g-232",
+  "brand": "Grace",
+  "category_slug": "canned-foods",
+  "price": 1.99,
+  "image": "/products/image232.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0232"
+ },
+ {
+  "num": 233,
+  "name": "GRACE Chicken Vienna Sausages 120g",
+  "slug": "grace-chicken-vienna-sausages-120g-233",
+  "brand": "Grace",
+  "category_slug": "canned-foods",
+  "price": 1.99,
+  "image": "/products/image233.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0233"
+ },
+ {
+  "num": 234,
+  "name": "DELEX SUPPLIES Uziza Seed 100g",
+  "slug": "delex-supplies-uziza-seed-100g-234",
+  "brand": "Delex Supplies",
+  "category_slug": "spices-seasonings",
+  "price": 5.2,
+  "image": "/products/image234.webp",
+  "meal_tags": [
+   "pepper_soup"
+  ],
+  "ai_meal_roles": [
+   "uziza"
+  ],
+  "sku": "AFB-0234"
+ },
+ {
+  "num": 235,
+  "name": "QUAKER WHITE OATS 500g",
+  "slug": "quaker-white-oats-500g-235",
+  "brand": "Quaker",
+  "category_slug": "breakfast-cereals",
+  "price": 5.18,
+  "image": "/products/image235.webp",
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "oats"
+  ],
+  "sku": "AFB-0235"
+ },
+ {
+  "num": 236,
+  "name": "ROYCO Spicy beef flavoured mix (originial) 200g",
+  "slug": "royco-spicy-beef-flavoured-mix-originial-200g-236",
+  "brand": "Royco",
+  "category_slug": "spices-seasonings",
+  "price": 4.74,
+  "image": "/products/image236.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning",
+   "protein"
+  ],
+  "sku": "AFB-0236"
+ },
+ {
+  "num": 237,
+  "name": "DUNNS RIVER Original Chicken Fry Mix 300g",
+  "slug": "dunns-river-original-chicken-fry-mix-300g-237",
+  "brand": "Dunns River",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.02,
+  "image": "/products/image237.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0237"
+ },
+ {
+  "num": 238,
+  "name": "TROPICAL SUN Jamaican Jerk Seasoning 650g",
+  "slug": "tropical-sun-jamaican-jerk-seasoning-650g-238",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 16.64,
+  "image": "/products/image238.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0238"
+ },
+ {
+  "num": 239,
+  "name": "ROYCO Chicken flavoured mix (originial) 200g",
+  "slug": "royco-chicken-flavoured-mix-originial-200g-239",
+  "brand": "Royco",
+  "category_slug": "spices-seasonings",
+  "price": 4.75,
+  "image": "/products/image239.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0239"
+ },
+ {
+  "num": 240,
+  "name": "DUNNS RIVER Chicken seasoning 600g",
+  "slug": "dunns-river-chicken-seasoning-600g-240",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 15.09,
+  "image": "/products/image240.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0240"
+ },
+ {
+  "num": 241,
+  "name": "TROPICAL SUN Everday Seasoning 700g",
+  "slug": "tropical-sun-everday-seasoning-700g-241",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 17.62,
+  "image": "/products/image241.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0241"
+ },
+ {
+  "num": 242,
+  "name": "DUNNS RIVER Mixed Herbs 150g",
+  "slug": "dunns-river-mixed-herbs-150g-242",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 7.34,
+  "image": "/products/image242.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0242"
+ },
+ {
+  "num": 243,
+  "name": "DUNNS RIVER Jerk Seasoning 650g",
+  "slug": "dunns-river-jerk-seasoning-650g-243",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 16.33,
+  "image": "/products/image243.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0243"
+ },
+ {
+  "num": 244,
+  "name": "DUNNS RIVER Everyday Seasoning 700g",
+  "slug": "dunns-river-everyday-seasoning-700g-244",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 17.52,
+  "image": "/products/image244.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0244"
+ },
+ {
+  "num": 245,
+  "name": "DUNNS RIVER Barbecue Seasoning 600g",
+  "slug": "dunns-river-barbecue-seasoning-600g-245",
+  "brand": "Dunns River",
+  "category_slug": "spices-seasonings",
+  "price": 15.43,
+  "image": "/products/image245.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0245"
+ },
+ {
+  "num": 246,
+  "name": "MAGGI Shrimp flavoured seasoning 60x10g tablets",
+  "slug": "maggi-shrimp-flavoured-seasoning-60x10g-tablets-246",
+  "brand": "Maggi",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image246.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0246"
+ },
+ {
+  "num": 247,
+  "name": "TASTY CUBES Chicken flavour 320g",
+  "slug": "tasty-cubes-chicken-flavour-320g-247",
+  "brand": "Tasty Cubes",
+  "category_slug": "spices-seasonings",
+  "price": 8.22,
+  "image": "/products/image247.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0247"
+ },
+ {
+  "num": 248,
+  "name": "TROPICAL SUN  Chicken stock powder 1kg",
+  "slug": "tropical-sun-chicken-stock-powder-1kg-248",
+  "brand": "Tropical Sun",
+  "category_slug": "spices-seasonings",
+  "price": 24.74,
+  "image": "/products/image248.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0248"
+ },
+ {
+  "num": 249,
+  "name": "MAGGI  Star seasoning cubes 420g",
+  "slug": "maggi-star-seasoning-cubes-420g-249",
+  "brand": "Maggi",
+  "category_slug": "spices-seasonings",
+  "price": 10.4,
+  "image": "/products/image249.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0249"
+ },
+ {
+  "num": 250,
+  "name": "KNORR None Seasoned Cubes/Beef flavoured 50x8g",
+  "slug": "knorr-none-seasoned-cubesbeef-flavoured-50x8g-250",
+  "brand": "Knorr",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image250.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning",
+   "protein"
+  ],
+  "sku": "AFB-0250"
+ },
+ {
+  "num": 251,
+  "name": "GINO ASUN Flavoured Tomato Seasoning Mix 50g",
+  "slug": "gino-asun-flavoured-tomato-seasoning-mix-50g-251",
+  "brand": "Gino Asun",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image251.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0251"
+ },
+ {
+  "num": 252,
+  "name": "KNORR None seasoned cubes/chicken flavoured 50x8g",
+  "slug": "knorr-none-seasoned-cubeschicken-flavoured-50x8g-252",
+  "brand": "Knorr",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image252.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0252"
+ },
+ {
+  "num": 253,
+  "name": "KNORR None chicken seasoning powder 400g",
+  "slug": "knorr-none-chicken-seasoning-powder-400g-253",
+  "brand": "Knorr",
+  "category_slug": "spices-seasonings",
+  "price": 10.25,
+  "image": "/products/image253.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0253"
+ },
+ {
+  "num": 254,
+  "name": "TASTY TOM Jollof Mix Paste 60g",
+  "slug": "tasty-tom-jollof-mix-paste-60g-254",
+  "brand": "Tasty Tom",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image254.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [
+   "tomato_base",
+   "jollof_seasoning"
+  ],
+  "sku": "AFB-0254"
+ },
+ {
+  "num": 255,
+  "name": "LARSOR Tomato Seasoning 100g",
+  "slug": "larsor-tomato-seasoning-100g-255",
+  "brand": "Larsor",
+  "category_slug": "spices-seasonings",
+  "price": 4.92,
+  "image": "/products/image255.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0255"
+ },
+ {
+  "num": 256,
+  "name": "MAGGI Chicken flavoured seasoning cubes 60x10g",
+  "slug": "maggi-chicken-flavoured-seasoning-cubes-60x10g-256",
+  "brand": "Maggi",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image256.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0256"
+ },
+ {
+  "num": 257,
+  "name": "LARSOR Beef Seasoning 10g",
+  "slug": "larsor-beef-seasoning-10g-257",
+  "brand": "Larsor",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image257.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0257"
+ },
+ {
+  "num": 258,
+  "name": "LARSOR Chicken seasoning 10g",
+  "slug": "larsor-chicken-seasoning-10g-258",
+  "brand": "Larsor",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image258.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0258"
+ },
+ {
+  "num": 259,
+  "name": "BENNY Powdered Chicken Flavoured Stock 17g",
+  "slug": "benny-powdered-chicken-flavoured-stock-17g-259",
+  "brand": "Benny",
+  "category_slug": "spices-seasonings",
+  "price": 3.98,
+  "image": "/products/image259.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "stock_seasoning"
+  ],
+  "sku": "AFB-0259"
+ },
+ {
+  "num": 260,
+  "name": "SPICITY Stew&Jollof Seasoning Powder 100g",
+  "slug": "spicity-stewjollof-seasoning-powder-100g-260",
+  "brand": "Spicity",
+  "category_slug": "spices-seasonings",
+  "price": 4.54,
+  "image": "/products/image260.webp",
+  "meal_tags": [
+   "jollof"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0260"
+ },
+ {
+  "num": 261,
+  "name": "JAFRO FOODS Chin-chin 450g",
+  "slug": "jafro-foods-chin-chin-450g-261",
+  "brand": "Jafro Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 4.93,
+  "image": "/products/image261.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0261"
+ },
+ {
+  "num": 262,
+  "name": "ROBERTS  Ginger Tea lemon&mint 180g",
+  "slug": "roberts-ginger-tea-lemonmint-180g-262",
+  "brand": "Roberts",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": "/products/image262.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0262"
+ },
+ {
+  "num": 263,
+  "name": "ROBERTS Ginger tea ginger&honey 180g",
+  "slug": "roberts-ginger-tea-gingerhoney-180g-263",
+  "brand": "Roberts",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": "/products/image263.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0263"
+ },
+ {
+  "num": 264,
+  "name": "AFRICA'S FINEST Chin chin 250g",
+  "slug": "africas-finest-chin-chin-250g-264",
+  "brand": "Africa'S Finest",
+  "category_slug": "snacks-biscuits",
+  "price": 2.37,
+  "image": "/products/image264.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0264"
+ },
+ {
+  "num": 265,
+  "name": "ROBERTS Ginger tea ginger&lemon 360g",
+  "slug": "roberts-ginger-tea-gingerlemon-360g-265",
+  "brand": "Roberts",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": "/products/image265.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0265"
+ },
+ {
+  "num": 266,
+  "name": "TEAR&POUR Instant ginger&honey satchets 270g",
+  "slug": "tearpour-instant-gingerhoney-satchets-270g-266",
+  "brand": "Tear&Pour",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": "/products/image266.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0266"
+ },
+ {
+  "num": 267,
+  "name": "GOLD KILI Instant honey&ginger drink 360g",
+  "slug": "gold-kili-instant-honeyginger-drink-360g-267",
+  "brand": "Gold Kili",
+  "category_slug": "drinks-teas",
+  "price": 2.36,
+  "image": "/products/image267.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0267"
+ },
+ {
+  "num": 268,
+  "name": "KTC Natural Strength Lime Juice 500ml",
+  "slug": "ktc-natural-strength-lime-juice-500ml-268",
+  "brand": "Ktc",
+  "category_slug": "drinks-teas",
+  "price": 3.11,
+  "image": "/products/image268.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0268"
+ },
+ {
+  "num": 269,
+  "name": "ROBERTS Raw Apple cider vinegar 946ml",
+  "slug": "roberts-raw-apple-cider-vinegar-946ml-269",
+  "brand": "Roberts",
+  "category_slug": "drinks-teas",
+  "price": 6.16,
+  "image": "/products/image269.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0269"
+ },
+ {
+  "num": 270,
+  "name": "ROBERTS Raw Apple cider vinegar 500ml",
+  "slug": "roberts-raw-apple-cider-vinegar-500ml-270",
+  "brand": "Roberts",
+  "category_slug": "drinks-teas",
+  "price": 3.15,
+  "image": "/products/image270.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0270"
+ },
+ {
+  "num": 271,
+  "name": "SHOPAFRIKHUB Ukwa African Breadfruit 395g",
+  "slug": "shopafrikhub-ukwa-african-breadfruit-395g-271",
+  "brand": "Shopafrikhub",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.67,
+  "image": "/products/image271.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0271"
+ },
+ {
+  "num": 272,
+  "name": "DIVINE ASTELLY Tiger Nuts 250g",
+  "slug": "divine-astelly-tiger-nuts-250g-272",
+  "brand": "Divine Astelly",
+  "category_slug": "beans-grains-nuts",
+  "price": 2.32,
+  "image": "/products/image272.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0272"
+ },
+ {
+  "num": 273,
+  "name": "AFRICA'S FINEST Chin Chin 950g",
+  "slug": "africas-finest-chin-chin-950g-273",
+  "brand": "Africa'S Finest",
+  "category_slug": "snacks-biscuits",
+  "price": 9.3,
+  "image": "/products/image273.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0273"
+ },
+ {
+  "num": 274,
+  "name": "JOY FOODS Coconut chin-chin 450g",
+  "slug": "joy-foods-coconut-chin-chin-450g-274",
+  "brand": "Joy Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 4.66,
+  "image": "/products/image274.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0274"
+ },
+ {
+  "num": 275,
+  "name": "JOY FOODS Original Chin-chin 900g",
+  "slug": "joy-foods-original-chin-chin-900g-275",
+  "brand": "Joy Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 9.44,
+  "image": "/products/image275.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0275"
+ },
+ {
+  "num": 276,
+  "name": "DELEX SUPPLIES Peanut (groundnut) 500g",
+  "slug": "delex-supplies-peanut-groundnut-500g-276",
+  "brand": "Delex Supplies",
+  "category_slug": "beans-grains-nuts",
+  "price": 3.63,
+  "image": "/products/image276.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0276"
+ },
+ {
+  "num": 277,
+  "name": "ELEX Roasted Peanuts 265g",
+  "slug": "elex-roasted-peanuts-265g-277",
+  "brand": "Elex",
+  "category_slug": "beans-grains-nuts",
+  "price": 1.99,
+  "image": "/products/image277.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0277"
+ },
+ {
+  "num": 278,
+  "name": "COCO JOY Toasted fine cut coconut 150g",
+  "slug": "coco-joy-toasted-fine-cut-coconut-150g-278",
+  "brand": "Coco Joy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image278.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0278"
+ },
+ {
+  "num": 279,
+  "name": "GHANA BEST Garden eggs 800g",
+  "slug": "ghana-best-garden-eggs-800g-279",
+  "brand": "Ghana Best",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.45,
+  "image": "/products/image279.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0279"
+ },
+ {
+  "num": 280,
+  "name": "COCO JOY Caramelized and vanilla flavoured coconut 300g",
+  "slug": "coco-joy-caramelized-and-vanilla-flavoured-coconut-300g-280",
+  "brand": "Coco Joy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.17,
+  "image": "/products/image280.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0280"
+ },
+ {
+  "num": 281,
+  "name": "DIVINE ASTELLY Ginger Trunks 110g",
+  "slug": "divine-astelly-ginger-trunks-110g-281",
+  "brand": "Divine Astelly",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": "/products/image281.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0281"
+ },
+ {
+  "num": 282,
+  "name": "GO COJOY caramel&vanilla flavoured coconut 150g",
+  "slug": "go-cojoy-caramelvanilla-flavoured-coconut-150g-282",
+  "brand": "Go",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image282.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0282"
+ },
+ {
+  "num": 283,
+  "name": "FOOD AFROBEAN Donkwa balls 80g",
+  "slug": "food-afrobean-donkwa-balls-80g-283",
+  "brand": "Food Afrobean",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image283.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0283"
+ },
+ {
+  "num": 284,
+  "name": "DELEX SUPPLIES  Kokoro 100g",
+  "slug": "delex-supplies-kokoro-100g-284",
+  "brand": "Delex Supplies",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image284.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0284"
+ },
+ {
+  "num": 285,
+  "name": "FOOD AFROBEAN Kulikuli 150g",
+  "slug": "food-afrobean-kulikuli-150g-285",
+  "brand": "Food Afrobean",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image285.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0285"
+ },
+ {
+  "num": 286,
+  "name": "ELEX Roasted peanuts 510g",
+  "slug": "elex-roasted-peanuts-510g-286",
+  "brand": "Elex",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.07,
+  "image": "/products/image286.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0286"
+ },
+ {
+  "num": 287,
+  "name": "JAFRO FOODSPeanut chin-chin 250g",
+  "slug": "jafro-foodspeanut-chin-chin-250g-287",
+  "brand": "Jafro",
+  "category_slug": "beans-grains-nuts",
+  "price": 2.41,
+  "image": "/products/image287.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0287"
+ },
+ {
+  "num": 288,
+  "name": "DELEX SUPPLIES Sis Pelebe 150g",
+  "slug": "delex-supplies-sis-pelebe-150g-288",
+  "brand": "Delex Supplies",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image288.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0288"
+ },
+ {
+  "num": 289,
+  "name": "TROPICAL SUN Crunchy coconut peanuts 330g",
+  "slug": "tropical-sun-crunchy-coconut-peanuts-330g-289",
+  "brand": "Tropical Sun",
+  "category_slug": "beans-grains-nuts",
+  "price": 2.23,
+  "image": "/products/image289.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0289"
+ },
+ {
+  "num": 290,
+  "name": "AFRICA'S FINEST Chin Chin 250g",
+  "slug": "africas-finest-chin-chin-250g-290",
+  "brand": "Africa'S Finest",
+  "category_slug": "snacks-biscuits",
+  "price": 2.42,
+  "image": "/products/image290.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0290"
+ },
+ {
+  "num": 291,
+  "name": "JOY FOODS Chin Chin 150g",
+  "slug": "joy-foods-chin-chin-150g-291",
+  "brand": "Joy Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image291.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0291"
+ },
+ {
+  "num": 292,
+  "name": "JAFRO FOODS Coconut Chin Chin 450g",
+  "slug": "jafro-foods-coconut-chin-chin-450g-292",
+  "brand": "Jafro Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 4.0,
+  "image": "/products/image292.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0292"
+ },
+ {
+  "num": 293,
+  "name": "GHANA BEST Peanut Butter 800g",
+  "slug": "ghana-best-peanut-butter-800g-293",
+  "brand": "Ghana Best",
+  "category_slug": "beans-grains-nuts",
+  "price": 6.67,
+  "image": "/products/image293.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0293"
+ },
+ {
+  "num": 294,
+  "name": "MAMA'S PRIDE Natural Peanut Butter 1kg",
+  "slug": "mamas-pride-natural-peanut-butter-1kg-294",
+  "brand": "Mama'S Pride",
+  "category_slug": "beans-grains-nuts",
+  "price": 8.14,
+  "image": "/products/image294.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0294"
+ },
+ {
+  "num": 295,
+  "name": "GHANA BEST Peanut butter smooth 400g",
+  "slug": "ghana-best-peanut-butter-smooth-400g-295",
+  "brand": "Ghana Best",
+  "category_slug": "beans-grains-nuts",
+  "price": 2.96,
+  "image": "/products/image295.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0295"
+ },
+ {
+  "num": 296,
+  "name": "TROPICWAY Peanut butter 1kg",
+  "slug": "tropicway-peanut-butter-1kg-296",
+  "brand": "Tropicway",
+  "category_slug": "beans-grains-nuts",
+  "price": 8.24,
+  "image": "/products/image296.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0296"
+ },
+ {
+  "num": 297,
+  "name": "DE VINA Nonalcoholic sparkling peach drink 75cl",
+  "slug": "de-vina-nonalcoholic-sparkling-peach-drink-75cl-297",
+  "brand": "De Vina",
+  "category_slug": "drinks-teas",
+  "price": 6.05,
+  "image": "/products/image297.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0297"
+ },
+ {
+  "num": 298,
+  "name": "CUV\u00c9E ROYALE non-alcoholic white grape sparkling drink 75cl",
+  "slug": "cuv\u00e9e-royale-non-alcoholic-white-grape-sparkling-drink-75cl-298",
+  "brand": "Cuv\u00e9e",
+  "category_slug": "drinks-teas",
+  "price": 5.93,
+  "image": "/products/image298.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0298"
+ },
+ {
+  "num": 299,
+  "name": "DE VINA non-alcoholic sparkling mango drink 75cl",
+  "slug": "de-vina-non-alcoholic-sparkling-mango-drink-75cl-299",
+  "brand": "De",
+  "category_slug": "drinks-teas",
+  "price": 5.51,
+  "image": "/products/image299.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0299"
+ },
+ {
+  "num": 300,
+  "name": "DE VINA Non-alcoholic sparkling white grape drink 75cl",
+  "slug": "de-vina-non-alcoholic-sparkling-white-grape-drink-75cl-300",
+  "brand": "De Vina",
+  "category_slug": "drinks-teas",
+  "price": 5.58,
+  "image": "/products/image300.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0300"
+ },
+ {
+  "num": 301,
+  "name": "DE VINA Non-alcoholic sparkling red grape drink 75cl",
+  "slug": "de-vina-non-alcoholic-sparkling-red-grape-drink-75cl-301",
+  "brand": "De Vina",
+  "category_slug": "drinks-teas",
+  "price": 6.38,
+  "image": "/products/image301.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0301"
+ },
+ {
+  "num": 302,
+  "name": "PURE HEAVEN White grape&peach sparkling drink 750ml",
+  "slug": "pure-heaven-white-grapepeach-sparkling-drink-750ml-302",
+  "brand": "Pure Heaven",
+  "category_slug": "drinks-teas",
+  "price": 4.9,
+  "image": "/products/image302.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0302"
+ },
+ {
+  "num": 303,
+  "name": "EMU Palm juice 60cl",
+  "slug": "emu-palm-juice-60cl-303",
+  "brand": "Emu",
+  "category_slug": "oils-cooking-essentials",
+  "price": 7.05,
+  "image": "/products/image303.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0303"
+ },
+ {
+  "num": 304,
+  "name": "DE VINA Non-alcoholic sparkling red grape drink 33cl",
+  "slug": "de-vina-non-alcoholic-sparkling-red-grape-drink-33cl-304",
+  "brand": "De Vina",
+  "category_slug": "drinks-teas",
+  "price": 6.33,
+  "image": "/products/image304.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0304"
+ },
+ {
+  "num": 305,
+  "name": "GRACE Chicken flavoured noodle soup mix 60g",
+  "slug": "grace-chicken-flavoured-noodle-soup-mix-60g-305",
+  "brand": "Grace",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image305.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0305"
+ },
+ {
+  "num": 306,
+  "name": "GRACE Pumpkin soup mix 50g",
+  "slug": "grace-pumpkin-soup-mix-50g-306",
+  "brand": "Grace",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image306.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0306"
+ },
+ {
+  "num": 307,
+  "name": "MALIBAN Lemon puff biscuit 200g",
+  "slug": "maliban-lemon-puff-biscuit-200g-307",
+  "brand": "Maliban",
+  "category_slug": "snacks-biscuits",
+  "price": 1.99,
+  "image": "/products/image307.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0307"
+ },
+ {
+  "num": 308,
+  "name": "YALE Sweetened cabin biscuit 340g",
+  "slug": "yale-sweetened-cabin-biscuit-340g-308",
+  "brand": "Yale",
+  "category_slug": "snacks-biscuits",
+  "price": 3.21,
+  "image": "/products/image308.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0308"
+ },
+ {
+  "num": 309,
+  "name": "OXFORD Sweetened cabin biscuit 350g",
+  "slug": "oxford-sweetened-cabin-biscuit-350g-309",
+  "brand": "Oxford",
+  "category_slug": "snacks-biscuits",
+  "price": 3.9,
+  "image": "/products/image309.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0309"
+ },
+ {
+  "num": 310,
+  "name": "GRACE Cock flavoured noodle soup mix 50g",
+  "slug": "grace-cock-flavoured-noodle-soup-mix-50g-310",
+  "brand": "Grace",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": "/products/image310.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0310"
+ },
+ {
+  "num": 311,
+  "name": "MALIBAN Chocolate puff biscuit 200g",
+  "slug": "maliban-chocolate-puff-biscuit-200g-311",
+  "brand": "Maliban",
+  "category_slug": "snacks-biscuits",
+  "price": 2.36,
+  "image": "/products/image311.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0311"
+ },
+ {
+  "num": 312,
+  "name": "AFRICA'S FINEST Pea aubergine 800g",
+  "slug": "africas-finest-pea-aubergine-800g-312",
+  "brand": "Africa'S Finest",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.8,
+  "image": "/products/image312.webp",
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0312"
+ },
+ {
+  "num": 313,
+  "name": "GHANA BEST Palm nut soup with herbs 800g",
+  "slug": "ghana-best-palm-nut-soup-with-herbs-800g-313",
+  "brand": "Ghana Best",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.11,
+  "image": "/products/image313.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0313"
+ },
+ {
+  "num": 314,
+  "name": "GHANA FRESH Palmnut cream 800g",
+  "slug": "ghana-fresh-palmnut-cream-800g-314",
+  "brand": "Ghana Fresh",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.15,
+  "image": "/products/image314.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0314"
+ },
+ {
+  "num": 315,
+  "name": "GHANA BEST Palm nut soup 800g",
+  "slug": "ghana-best-palm-nut-soup-800g-315",
+  "brand": "Ghana Best",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.0,
+  "image": "/products/image315.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0315"
+ },
+ {
+  "num": 316,
+  "name": "UNIFRESH Palm soup 800g",
+  "slug": "unifresh-palm-soup-800g-316",
+  "brand": "Unifresh",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.68,
+  "image": "/products/image316.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0316"
+ },
+ {
+  "num": 317,
+  "name": "AFRICA'S FINEST Banga soup base 800g",
+  "slug": "africas-finest-banga-soup-base-800g-317",
+  "brand": "Africa'S Finest",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.78,
+  "image": "/products/image317.webp",
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0317"
+ },
+ {
+  "num": 318,
+  "name": "NKULENU'S Palm souo base 780g",
+  "slug": "nkulenus-palm-souo-base-780g-318",
+  "brand": "Nkulenu'S",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.15,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0318"
+ },
+ {
+  "num": 319,
+  "name": "PALLY AGRO Banga palm fruits extract 800gm",
+  "slug": "pally-agro-banga-palm-fruits-extract-800gm-319",
+  "brand": "Pally Agro",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.52,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0319"
+ },
+ {
+  "num": 320,
+  "name": "TROFAI Palmnut concentrate 800g",
+  "slug": "trofai-palmnut-concentrate-800g-320",
+  "brand": "Trofai",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.05,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0320"
+ },
+ {
+  "num": 321,
+  "name": "TROPICAL SUN Palm nut soup 800g",
+  "slug": "tropical-sun-palm-nut-soup-800g-321",
+  "brand": "Tropical Sun",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.83,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0321"
+ },
+ {
+  "num": 322,
+  "name": "NKULENU'S Palm soup base 390g",
+  "slug": "nkulenus-palm-soup-base-390g-322",
+  "brand": "Nkulenu'S",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.48,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0322"
+ },
+ {
+  "num": 323,
+  "name": "GHANA BEST Palm nut soup 400g",
+  "slug": "ghana-best-palm-nut-soup-400g-323",
+  "brand": "Ghana Best",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.68,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0323"
+ },
+ {
+  "num": 324,
+  "name": "GREEN GIANT Sweetcorn & peppers 340g",
+  "slug": "green-giant-sweetcorn-peppers-340g-324",
+  "brand": "Green Giant",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.03,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0324"
+ },
+ {
+  "num": 325,
+  "name": "TRS Leaf spinach 765g",
+  "slug": "trs-leaf-spinach-765g-325",
+  "brand": "Trs",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.5,
+  "image": null,
+  "meal_tags": [
+   "efo_riro"
+  ],
+  "ai_meal_roles": [
+   "efo_leaves"
+  ],
+  "sku": "AFB-0325"
+ },
+ {
+  "num": 326,
+  "name": "TROPICAL SUN Jamaican Callaloo in salted water 540g",
+  "slug": "tropical-sun-jamaican-callaloo-in-salted-water-540g-326",
+  "brand": "Tropical Sun",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.84,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "efo_leaves"
+  ],
+  "sku": "AFB-0326"
+ },
+ {
+  "num": 327,
+  "name": "TROFAI Palmnut concentrate 400g",
+  "slug": "trofai-palmnut-concentrate-400g-327",
+  "brand": "Trofai",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.44,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [
+   "banga_base"
+  ],
+  "sku": "AFB-0327"
+ },
+ {
+  "num": 328,
+  "name": "MOKK FOODS Habanero chili pepper 200g",
+  "slug": "mokk-foods-habanero-chili-pepper-200g-328",
+  "brand": "Mokk Foods",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0328"
+ },
+ {
+  "num": 329,
+  "name": "NKULENU'S Palm soup base 390g",
+  "slug": "nkulenus-palm-soup-base-390g-329",
+  "brand": "Nkulenu'S",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.55,
+  "image": null,
+  "meal_tags": [
+   "banga"
+  ],
+  "ai_meal_roles": [],
+  "sku": "AFB-0329"
+ },
+ {
+  "num": 330,
+  "name": "TVS FOODS Whole peeled plum tomatoes 400g",
+  "slug": "tvs-foods-whole-peeled-plum-tomatoes-400g-330",
+  "brand": "Tvs Foods",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.5,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0330"
+ },
+ {
+  "num": 331,
+  "name": "KTC Chopped tomatoes 400g",
+  "slug": "ktc-chopped-tomatoes-400g-331",
+  "brand": "Ktc",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.56,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0331"
+ },
+ {
+  "num": 332,
+  "name": "GINO Tomato paste 800g",
+  "slug": "gino-tomato-paste-800g-332",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 20.31,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0332"
+ },
+ {
+  "num": 333,
+  "name": "ST ANNE Tomato  400g",
+  "slug": "st-anne-tomato-400g-333",
+  "brand": "St Anne",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.97,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0333"
+ },
+ {
+  "num": 334,
+  "name": "DE RICA Tomato 400g",
+  "slug": "de-rica-tomato-400g-334",
+  "brand": "De Rica",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.49,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0334"
+ },
+ {
+  "num": 335,
+  "name": "ROBERTS Del Tom Tomato Paste 400g",
+  "slug": "roberts-del-tom-tomato-paste-400g-335",
+  "brand": "Roberts",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.81,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0335"
+ },
+ {
+  "num": 336,
+  "name": "DE RICA Tomato 70g",
+  "slug": "de-rica-tomato-70g-336",
+  "brand": "De Rica",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0336"
+ },
+ {
+  "num": 337,
+  "name": "DE RICA Tomato 210g",
+  "slug": "de-rica-tomato-210g-337",
+  "brand": "De Rica",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.04,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0337"
+ },
+ {
+  "num": 338,
+  "name": "DE RICA Tomato 400g",
+  "slug": "de-rica-tomato-400g-338",
+  "brand": "De Rica",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.92,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0338"
+ },
+ {
+  "num": 339,
+  "name": "DE RICA Tomato 850g",
+  "slug": "de-rica-tomato-850g-339",
+  "brand": "De Rica",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.12,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0339"
+ },
+ {
+  "num": 340,
+  "name": "GINO Tomato 210g",
+  "slug": "gino-tomato-210g-340",
+  "brand": "Gino",
+  "category_slug": "spices-seasonings",
+  "price": 5.21,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0340"
+ },
+ {
+  "num": 341,
+  "name": "ROBERTS  Del Tom Pure Tomato Paste 800g",
+  "slug": "roberts-del-tom-pure-tomato-paste-800g-341",
+  "brand": "Roberts",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.21,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0341"
+ },
+ {
+  "num": 342,
+  "name": "ROBERTS  Del Tom pure tomato paste 210g",
+  "slug": "roberts-del-tom-pure-tomato-paste-210g-342",
+  "brand": "Roberts",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base"
+  ],
+  "sku": "AFB-0342"
+ },
+ {
+  "num": 343,
+  "name": "FAY FOODS Puff puff mix 650g",
+  "slug": "fay-foods-puff-puff-mix-650g-343",
+  "brand": "Fay Foods",
+  "category_slug": "snacks-biscuits",
+  "price": 6.23,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0343"
+ },
+ {
+  "num": 344,
+  "name": "FAY FOODS Buns mix 600g",
+  "slug": "fay-foods-buns-mix-600g-344",
+  "brand": "Fay Foods",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 4.32,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0344"
+ },
+ {
+  "num": 345,
+  "name": "SAXA Fine salt 750g",
+  "slug": "saxa-fine-salt-750g-345",
+  "brand": "Saxa",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 5.69,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0345"
+ },
+ {
+  "num": 346,
+  "name": "SAXA Fine salt 675g",
+  "slug": "saxa-fine-salt-675g-346",
+  "brand": "Saxa",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 5.23,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0346"
+ },
+ {
+  "num": 347,
+  "name": "PEGASUS Table salt 750g",
+  "slug": "pegasus-table-salt-750g-347",
+  "brand": "Pegasus",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.36,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0347"
+ },
+ {
+  "num": 348,
+  "name": "PEGASUS Fine white salt 800g",
+  "slug": "pegasus-fine-white-salt-800g-348",
+  "brand": "Pegasus",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.87,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0348"
+ },
+ {
+  "num": 349,
+  "name": "ORS Hair mayonnaise 227g",
+  "slug": "ors-hair-mayonnaise-227g-349",
+  "brand": "Ors",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0349"
+ },
+ {
+  "num": 350,
+  "name": "ORS Hair mayonnaise 908g",
+  "slug": "ors-hair-mayonnaise-908g-350",
+  "brand": "Ors",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.41,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0350"
+ },
+ {
+  "num": 351,
+  "name": "ORS Olive oil hair spray (alcohol free) 472ml",
+  "slug": "ors-olive-oil-hair-spray-alcohol-free-472ml-351",
+  "brand": "Ors",
+  "category_slug": "oils-cooking-essentials",
+  "price": 3.2,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0351"
+ },
+ {
+  "num": 352,
+  "name": "ORS Hair mayonnaise 227g",
+  "slug": "ors-hair-mayonnaise-227g-352",
+  "brand": "Ors",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.3,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0352"
+ },
+ {
+  "num": 353,
+  "name": "ORS Hair mayonnaise 454g",
+  "slug": "ors-hair-mayonnaise-454g-353",
+  "brand": "Ors",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.67,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0353"
+ },
+ {
+  "num": 354,
+  "name": "ZENON SO-FINE Hair darkening cream 100g",
+  "slug": "zenon-so-fine-hair-darkening-cream-100g-354",
+  "brand": "Zenon",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0354"
+ },
+ {
+  "num": 355,
+  "name": "DABUR HERBAL Oral protection toothpaste 130g",
+  "slug": "dabur-herbal-oral-protection-toothpaste-130g-355",
+  "brand": "Dabur Herbal",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0355"
+ },
+ {
+  "num": 356,
+  "name": "CLOSEUP Anti-bacterial Toothpaste 130g",
+  "slug": "closeup-anti-bacterial-toothpaste-130g-356",
+  "brand": "Closeup",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0356"
+ },
+ {
+  "num": 357,
+  "name": "SOUL MATE Hair conditioner cream 100g",
+  "slug": "soul-mate-hair-conditioner-cream-100g-357",
+  "brand": "Soul Mate",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0357"
+ },
+ {
+  "num": 358,
+  "name": "GRANDESSA Honey 454g",
+  "slug": "grandessa-honey-454g-358",
+  "brand": "Grandessa",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 4.09,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0358"
+ },
+ {
+  "num": 359,
+  "name": "ORS Olive oil spray (alcohol free) 404ml",
+  "slug": "ors-olive-oil-spray-alcohol-free-404ml-359",
+  "brand": "Ors",
+  "category_slug": "oils-cooking-essentials",
+  "price": 2.59,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0359"
+ },
+ {
+  "num": 360,
+  "name": "SHINE \u2018N JAM Conditioning hair gel extra hold 454g",
+  "slug": "shine-n-jam-conditioning-hair-gel-extra-hold-454g-360",
+  "brand": "Shine",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.24,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0360"
+ },
+ {
+  "num": 361,
+  "name": "ORS Olive oil deep cleansing shampoo 370ml",
+  "slug": "ors-olive-oil-deep-cleansing-shampoo-370ml-361",
+  "brand": "Ors",
+  "category_slug": "oils-cooking-essentials",
+  "price": 2.52,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0361"
+ },
+ {
+  "num": 362,
+  "name": "FANTASIA Spray on liquid mousse (styling) 295.7ml",
+  "slug": "fantasia-spray-on-liquid-mousse-styling-2957ml-362",
+  "brand": "Fantasia",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.59,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0362"
+ },
+ {
+  "num": 363,
+  "name": "ORS Olive oil wrap/set mousse 207ml",
+  "slug": "ors-olive-oil-wrapset-mousse-207ml-363",
+  "brand": "Ors",
+  "category_slug": "oils-cooking-essentials",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0363"
+ },
+ {
+  "num": 364,
+  "name": "ORS Olive oil hold&shine wrap/set mousse (with coconut oil) 207ml",
+  "slug": "ors-olive-oil-holdshine-wrapset-mousse-with-coconut-oil-207m-364",
+  "brand": "Ors",
+  "category_slug": "oils-cooking-essentials",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0364"
+ },
+ {
+  "num": 365,
+  "name": "DARK AND LOVELY No Lye Relaxer Kit  12ml",
+  "slug": "dark-and-lovely-no-lye-relaxer-kit-12ml-365",
+  "brand": "Dark And Lovely",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0365"
+ },
+ {
+  "num": 366,
+  "name": "DARK AND LOVELY  Scalp care relaxer",
+  "slug": "dark-and-lovely-scalp-care-relaxer-366",
+  "brand": "Dark And Lovely",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.89,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0366"
+ },
+ {
+  "num": 367,
+  "name": "JUST FOR ME No-lye conditioning cr\u00e8me relaxer kit",
+  "slug": "just-for-me-no-lye-conditioning-cr\u00e8me-relaxer-kit-367",
+  "brand": "Just For Me",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.08,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0367"
+ },
+ {
+  "num": 368,
+  "name": "DRUGFIELD Sulphur skin ointment 25g",
+  "slug": "drugfield-sulphur-skin-ointment-25g-368",
+  "brand": "Drugfield",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0368"
+ },
+ {
+  "num": 369,
+  "name": "TURA Germidical medicated soap",
+  "slug": "tura-germidical-medicated-soap-369",
+  "brand": "Tura",
+  "category_slug": "beauty-personal-care",
+  "price": 18.21,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0369"
+ },
+ {
+  "num": 370,
+  "name": "SKINFIX Ketoconazole antifungal cream",
+  "slug": "skinfix-ketoconazole-antifungal-cream-370",
+  "brand": "Skinfix",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.5,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0370"
+ },
+ {
+  "num": 371,
+  "name": "DR TEAL\u2019S Glow&Radiance Soap 190g",
+  "slug": "dr-teals-glowradiance-soap-190g-371",
+  "brand": "Dr",
+  "category_slug": "drinks-teas",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0371"
+ },
+ {
+  "num": 372,
+  "name": "DRUGFIELD Whitfield\u2019s ointment",
+  "slug": "drugfield-whitfields-ointment-372",
+  "brand": "Drugfield",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.04,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0372"
+ },
+ {
+  "num": 373,
+  "name": "PURE EGYPTIAN Beauty whitening cream",
+  "slug": "pure-egyptian-beauty-whitening-cream-373",
+  "brand": "Pure Egyptian",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.22,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0373"
+ },
+ {
+  "num": 374,
+  "name": "PURE EGYPTIAN Multipurpose whitening cream",
+  "slug": "pure-egyptian-multipurpose-whitening-cream-374",
+  "brand": "Pure Egyptian",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.24,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0374"
+ },
+ {
+  "num": 375,
+  "name": "GOODRICH Antiseptic cream",
+  "slug": "goodrich-antiseptic-cream-375",
+  "brand": "Goodrich",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.17,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0375"
+ },
+ {
+  "num": 376,
+  "name": "CACATIN Herbal Cream 100g",
+  "slug": "cacatin-herbal-cream-100g-376",
+  "brand": "Cacatin",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0376"
+ },
+ {
+  "num": 377,
+  "name": "CACATIN Herbal Cream 20g",
+  "slug": "cacatin-herbal-cream-20g-377",
+  "brand": "Cacatin",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0377"
+ },
+ {
+  "num": 378,
+  "name": "GBOGONISE Skin cream 30g",
+  "slug": "gbogonise-skin-cream-30g-378",
+  "brand": "Gbogonise",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0378"
+ },
+ {
+  "num": 379,
+  "name": "KOJIE SAN Turmeric skin lightening soap 135g",
+  "slug": "kojie-san-turmeric-skin-lightening-soap-135g-379",
+  "brand": "Kojie San",
+  "category_slug": "beauty-personal-care",
+  "price": 2.26,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0379"
+ },
+ {
+  "num": 380,
+  "name": "FAIR CHILD Natural&Moisturising milk soap 150g",
+  "slug": "fair-child-naturalmoisturising-milk-soap-150g-380",
+  "brand": "Fair Child",
+  "category_slug": "beauty-personal-care",
+  "price": 2.51,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0380"
+ },
+ {
+  "num": 381,
+  "name": "VIVA PLUS Multipurpose soap 250g",
+  "slug": "viva-plus-multipurpose-soap-250g-381",
+  "brand": "Viva Plus",
+  "category_slug": "beauty-personal-care",
+  "price": 4.85,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0381"
+ },
+ {
+  "num": 382,
+  "name": "VIVA PLUS Multipurpose soap 250g",
+  "slug": "viva-plus-multipurpose-soap-250g-382",
+  "brand": "Viva Plus",
+  "category_slug": "beauty-personal-care",
+  "price": 4.72,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0382"
+ },
+ {
+  "num": 383,
+  "name": "DUDU-OSUN Black soap 150g",
+  "slug": "dudu-osun-black-soap-150g-383",
+  "brand": "Dudu-Osun",
+  "category_slug": "beauty-personal-care",
+  "price": 2.5,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0383"
+ },
+ {
+  "num": 384,
+  "name": "FAIR CHILD Natural&Moisturizing body milk 400ml",
+  "slug": "fair-child-naturalmoisturizing-body-milk-400ml-384",
+  "brand": "Fair Child",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.01,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0384"
+ },
+ {
+  "num": 385,
+  "name": "FAIR CHILD Natural & Moisturizing soap 150g",
+  "slug": "fair-child-natural-moisturizing-soap-150g-385",
+  "brand": "Fair Child",
+  "category_slug": "beauty-personal-care",
+  "price": 2.61,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0385"
+ },
+ {
+  "num": 386,
+  "name": "FAIR CHILD Natural & Moisturizing body milk with egg yolk & natural honey 400ml",
+  "slug": "fair-child-natural-moisturizing-body-milk-with-egg-yolk-natu-386",
+  "brand": "Fair Child",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.1,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0386"
+ },
+ {
+  "num": 387,
+  "name": "AUTHENTIC Herbal cream 30g",
+  "slug": "authentic-herbal-cream-30g-387",
+  "brand": "Authentic",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0387"
+ },
+ {
+  "num": 388,
+  "name": "DETTOL Original soap",
+  "slug": "dettol-original-soap-388",
+  "brand": "Dettol",
+  "category_slug": "beauty-personal-care",
+  "price": 17.63,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0388"
+ },
+ {
+  "num": 389,
+  "name": "EUTHYMOL Original toothpaste 75ml",
+  "slug": "euthymol-original-toothpaste-75ml-389",
+  "brand": "Euthymol",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0389"
+ },
+ {
+  "num": 390,
+  "name": "DR TEAL'S Foaming bath 1000ml",
+  "slug": "dr-teals-foaming-bath-1000ml-390",
+  "brand": "Dr Teal'S",
+  "category_slug": "drinks-teas",
+  "price": 6.44,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0390"
+ },
+ {
+  "num": 391,
+  "name": "PALMER'S Anti-dark spot fade cream 75g",
+  "slug": "palmers-anti-dark-spot-fade-cream-75g-391",
+  "brand": "Palmer'S",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0391"
+ },
+ {
+  "num": 392,
+  "name": "ROBB Medicated mentholated dusting powder 200g",
+  "slug": "robb-medicated-mentholated-dusting-powder-200g-392",
+  "brand": "Robb",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.0,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0392"
+ },
+ {
+  "num": 393,
+  "name": "TETMOSOL Medicated soap 120g",
+  "slug": "tetmosol-medicated-soap-120g-393",
+  "brand": "Tetmosol",
+  "category_slug": "beauty-personal-care",
+  "price": 2.28,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0393"
+ },
+ {
+  "num": 394,
+  "name": "U.S.A BEAUTY CARE FACE OUT Carrot soap for black spots 120g",
+  "slug": "usa-beauty-care-face-out-carrot-soap-for-black-spots-120g-394",
+  "brand": "U.S.A",
+  "category_slug": "beauty-personal-care",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0394"
+ },
+ {
+  "num": 395,
+  "name": "ROBB Medicated mentholated dusting powder 80g",
+  "slug": "robb-medicated-mentholated-dusting-powder-80g-395",
+  "brand": "Robb",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0395"
+ },
+ {
+  "num": 396,
+  "name": "CRUSADER Soap original 80g",
+  "slug": "crusader-soap-original-80g-396",
+  "brand": "Crusader",
+  "category_slug": "beauty-personal-care",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0396"
+ },
+ {
+  "num": 397,
+  "name": "VIXASkineal cream 15g",
+  "slug": "vixaskineal-cream-15g-397",
+  "brand": "Vixaskineal",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0397"
+ },
+ {
+  "num": 398,
+  "name": "DRUGFIELD Neo-Presol cream 25ml",
+  "slug": "drugfield-neo-presol-cream-25ml-398",
+  "brand": "Drugfield",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0398"
+ },
+ {
+  "num": 399,
+  "name": "FUNBACT-A  Triple action cream 30gm",
+  "slug": "funbact-a-triple-action-cream-30gm-399",
+  "brand": "Funbact-A",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0399"
+ },
+ {
+  "num": 400,
+  "name": "POWER ACTION Lemon washing up liquid 500ml",
+  "slug": "power-action-lemon-washing-up-liquid-500ml-400",
+  "brand": "Power Action",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 4.15,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0400"
+ },
+ {
+  "num": 401,
+  "name": "POWER ACTION Original washing up liquid 500ml",
+  "slug": "power-action-original-washing-up-liquid-500ml-401",
+  "brand": "Power Action",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.96,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0401"
+ },
+ {
+  "num": 402,
+  "name": "BLUE MAGIC Coconut oil hair conditioner cream 340g",
+  "slug": "blue-magic-coconut-oil-hair-conditioner-cream-340g-402",
+  "brand": "Blue Magic",
+  "category_slug": "oils-cooking-essentials",
+  "price": 2.32,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0402"
+ },
+ {
+  "num": 403,
+  "name": "DAX Pomade (for styling) 397g",
+  "slug": "dax-pomade-for-styling-397g-403",
+  "brand": "Dax",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.89,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0403"
+ },
+ {
+  "num": 404,
+  "name": "GUMMY gummy styling wax 150ml",
+  "slug": "gummy-gummy-styling-wax-150ml-404",
+  "brand": "Gummy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0404"
+ },
+ {
+  "num": 405,
+  "name": "GUMMY gummy styling wax 150ml",
+  "slug": "gummy-gummy-styling-wax-150ml-405",
+  "brand": "Gummy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0405"
+ },
+ {
+  "num": 406,
+  "name": "TROPICAL SUN Sweet plantain chips 450g",
+  "slug": "tropical-sun-sweet-plantain-chips-450g-406",
+  "brand": "Tropical Sun",
+  "category_slug": "snacks-biscuits",
+  "price": 4.8,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0406"
+ },
+ {
+  "num": 407,
+  "name": "TROPICAL SUN Lightly salted plantain chips 450g",
+  "slug": "tropical-sun-lightly-salted-plantain-chips-450g-407",
+  "brand": "Tropical Sun",
+  "category_slug": "snacks-biscuits",
+  "price": 4.17,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0407"
+ },
+ {
+  "num": 408,
+  "name": "TROPICAL SUN Chilli plantain chips 450g",
+  "slug": "tropical-sun-chilli-plantain-chips-450g-408",
+  "brand": "Tropical Sun",
+  "category_slug": "snacks-biscuits",
+  "price": 4.08,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0408"
+ },
+ {
+  "num": 409,
+  "name": "DELEX SUPPLIES Plantain chips 500g",
+  "slug": "delex-supplies-plantain-chips-500g-409",
+  "brand": "Delex Supplies",
+  "category_slug": "snacks-biscuits",
+  "price": 5.02,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0409"
+ },
+ {
+  "num": 410,
+  "name": "CHECKERS Vanilla flavoured custard 45g",
+  "slug": "checkers-vanilla-flavoured-custard-45g-410",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0410"
+ },
+ {
+  "num": 411,
+  "name": "MOI MOI Moi moi cooking pouch",
+  "slug": "moi-moi-moi-moi-cooking-pouch-411",
+  "brand": "Moi Moi",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.84,
+  "image": null,
+  "meal_tags": [
+   "moi_moi"
+  ],
+  "ai_meal_roles": [
+   "moi_moi_pouch"
+  ],
+  "sku": "AFB-0411"
+ },
+ {
+  "num": 412,
+  "name": "MULTY Sponge scourers pack of 4",
+  "slug": "multy-sponge-scourers-pack-of-4-412",
+  "brand": "Multy",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.32,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0412"
+ },
+ {
+  "num": 413,
+  "name": "POWER ACTION non scratch sponge scourers Pack of 6",
+  "slug": "power-action-non-scratch-sponge-scourers-pack-of-6-413",
+  "brand": "Power",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.25,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0413"
+ },
+ {
+  "num": 414,
+  "name": "DUZZIT Sponge scourers Pack of 10",
+  "slug": "duzzit-sponge-scourers-pack-of-10-414",
+  "brand": "Duzzit",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.17,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0414"
+ },
+ {
+  "num": 415,
+  "name": "Coco Samba 100ml",
+  "slug": "coco-samba-100ml-415",
+  "brand": "Coco",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0415"
+ },
+ {
+  "num": 416,
+  "name": "Jekonmo herbal mixture 100ml",
+  "slug": "jekonmo-herbal-mixture-100ml-416",
+  "brand": "Jekonmo",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0416"
+ },
+ {
+  "num": 417,
+  "name": "DALGETY Herbal infusion 18 teabags",
+  "slug": "dalgety-herbal-infusion-18-teabags-417",
+  "brand": "Dalgety",
+  "category_slug": "drinks-teas",
+  "price": 5.52,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0417"
+ },
+ {
+  "num": 418,
+  "name": "TROPICAL SUN Moringa herbal infusion 20 teabags",
+  "slug": "tropical-sun-moringa-herbal-infusion-20-teabags-418",
+  "brand": "Tropical Sun",
+  "category_slug": "drinks-teas",
+  "price": 5.74,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0418"
+ },
+ {
+  "num": 419,
+  "name": "DALGETY Pure moringa herbal infusion teabag 18 teabags",
+  "slug": "dalgety-pure-moringa-herbal-infusion-teabag-18-teabags-419",
+  "brand": "Dalgety",
+  "category_slug": "drinks-teas",
+  "price": 5.98,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0419"
+ },
+ {
+  "num": 420,
+  "name": "DALGETY Herbal infusion 18 teabags",
+  "slug": "dalgety-herbal-infusion-18-teabags-420",
+  "brand": "Dalgety",
+  "category_slug": "drinks-teas",
+  "price": 6.35,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0420"
+ },
+ {
+  "num": 421,
+  "name": "Dalgety Strong sorrel/Hibiscus & Ginger",
+  "slug": "dalgety-strong-sorrelhibiscus-ginger-421",
+  "brand": "Dalgety",
+  "category_slug": "beans-grains-nuts",
+  "price": 7.57,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0421"
+ },
+ {
+  "num": 422,
+  "name": "Nestle Golden morn 950g",
+  "slug": "nestle-golden-morn-950g-422",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.51,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0422"
+ },
+ {
+  "num": 423,
+  "name": "PEGASUS Corn flour 250g",
+  "slug": "pegasus-corn-flour-250g-423",
+  "brand": "Pegasus",
+  "category_slug": "rice-flour-swallows",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0423"
+ },
+ {
+  "num": 424,
+  "name": "CHECKERS Corn flour 500g",
+  "slug": "checkers-corn-flour-500g-424",
+  "brand": "Checkers",
+  "category_slug": "rice-flour-swallows",
+  "price": 2.69,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0424"
+ },
+ {
+  "num": 425,
+  "name": "CHECKERS Corn flour 1kg",
+  "slug": "checkers-corn-flour-1kg-425",
+  "brand": "Checkers",
+  "category_slug": "rice-flour-swallows",
+  "price": 6.2,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0425"
+ },
+ {
+  "num": 426,
+  "name": "MARGUERITE Atti\u00e9k\u00e9 500g",
+  "slug": "marguerite-atti\u00e9k\u00e9-500g-426",
+  "brand": "Marguerite",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0426"
+ },
+ {
+  "num": 427,
+  "name": "TROPICWAY Cocoyam fufu instant mix 680g",
+  "slug": "tropicway-cocoyam-fufu-instant-mix-680g-427",
+  "brand": "Tropicway",
+  "category_slug": "rice-flour-swallows",
+  "price": 3.82,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0427"
+ },
+ {
+  "num": 428,
+  "name": "GHANA BEST Plantain fufu flour 680g",
+  "slug": "ghana-best-plantain-fufu-flour-680g-428",
+  "brand": "Ghana Best",
+  "category_slug": "rice-flour-swallows",
+  "price": 4.24,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0428"
+ },
+ {
+  "num": 429,
+  "name": "MAMA'S CHOICE Fufu mix (plantain) 624g",
+  "slug": "mamas-choice-fufu-mix-plantain-624g-429",
+  "brand": "Mama'S Choice",
+  "category_slug": "rice-flour-swallows",
+  "price": 3.25,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0429"
+ },
+ {
+  "num": 430,
+  "name": "AFRICA QUEEN Plantain fufu 680g",
+  "slug": "africa-queen-plantain-fufu-680g-430",
+  "brand": "Africa Queen",
+  "category_slug": "rice-flour-swallows",
+  "price": 4.33,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0430"
+ },
+ {
+  "num": 431,
+  "name": "TROPIWAY Instant plantain fufu 680g",
+  "slug": "tropiway-instant-plantain-fufu-680g-431",
+  "brand": "Tropiway",
+  "category_slug": "rice-flour-swallows",
+  "price": 4.35,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0431"
+ },
+ {
+  "num": 432,
+  "name": "TROPICAL SUN Coconut milk powder 150g",
+  "slug": "tropical-sun-coconut-milk-powder-150g-432",
+  "brand": "Tropical Sun",
+  "category_slug": "oils-cooking-essentials",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0432"
+ },
+ {
+  "num": 433,
+  "name": "TROPICWAY Plantain fufu instant mix 680g",
+  "slug": "tropicway-plantain-fufu-instant-mix-680g-433",
+  "brand": "Tropicway",
+  "category_slug": "rice-flour-swallows",
+  "price": 4.01,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0433"
+ },
+ {
+  "num": 434,
+  "name": "AFRICAN HARVEST Cocoyam fufu instant mix 680g",
+  "slug": "african-harvest-cocoyam-fufu-instant-mix-680g-434",
+  "brand": "African Harvest",
+  "category_slug": "rice-flour-swallows",
+  "price": 3.76,
+  "image": null,
+  "meal_tags": [
+   "swallow"
+  ],
+  "ai_meal_roles": [
+   "swallow"
+  ],
+  "sku": "AFB-0434"
+ },
+ {
+  "num": 435,
+  "name": "MR BROWN'S Jamaican curry seasoning 400g",
+  "slug": "mr-browns-jamaican-curry-seasoning-400g-435",
+  "brand": "Mr Brown'S",
+  "category_slug": "spices-seasonings",
+  "price": 10.46,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0435"
+ },
+ {
+  "num": 436,
+  "name": "MR BROWN'S Jamaican fish & meat curry seasoning  140g",
+  "slug": "mr-browns-jamaican-fish-meat-curry-seasoning-140g-436",
+  "brand": "Mr Brown'S",
+  "category_slug": "spices-seasonings",
+  "price": 7.04,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "curry"
+  ],
+  "sku": "AFB-0436"
+ },
+ {
+  "num": 437,
+  "name": "Nestle Milo 80g",
+  "slug": "nestle-milo-80g-437",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "cocoa"
+  ],
+  "sku": "AFB-0437"
+ },
+ {
+  "num": 438,
+  "name": "Bourn vita 900g",
+  "slug": "bourn-vita-900g-438",
+  "brand": "Bourn",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.95,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0438"
+ },
+ {
+  "num": 439,
+  "name": "Nestle Milo 400g",
+  "slug": "nestle-milo-400g-439",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 4.35,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "cocoa"
+  ],
+  "sku": "AFB-0439"
+ },
+ {
+  "num": 440,
+  "name": "Cadbury Bourn vita 500g",
+  "slug": "cadbury-bourn-vita-500g-440",
+  "brand": "Cadbury",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.96,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0440"
+ },
+ {
+  "num": 441,
+  "name": "Nestle Golden Morn 300g",
+  "slug": "nestle-golden-morn-300g-441",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 2.7,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0441"
+ },
+ {
+  "num": 442,
+  "name": "Nestle Milo 400g",
+  "slug": "nestle-milo-400g-442",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 4.17,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "cocoa"
+  ],
+  "sku": "AFB-0442"
+ },
+ {
+  "num": 443,
+  "name": "Nestle Milo 1.4kg",
+  "slug": "nestle-milo-14kg-443",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 14.49,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "cocoa"
+  ],
+  "sku": "AFB-0443"
+ },
+ {
+  "num": 444,
+  "name": "Checkers custard powder banana flavor 1kg",
+  "slug": "checkers-custard-powder-banana-flavor-1kg-444",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 10.1,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0444"
+ },
+ {
+  "num": 445,
+  "name": "Checkers custard powder vanilla flavor 1kg",
+  "slug": "checkers-custard-powder-vanilla-flavor-1kg-445",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 10.45,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0445"
+ },
+ {
+  "num": 446,
+  "name": "Tropical sun 3-in-1 Milk custard  powder 1kg",
+  "slug": "tropical-sun-3-in-1-milk-custard-powder-1kg-446",
+  "brand": "Tropical",
+  "category_slug": "breakfast-cereals",
+  "price": 10.39,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0446"
+ },
+ {
+  "num": 447,
+  "name": "Checkers custard powder vanilla flavor 2kg",
+  "slug": "checkers-custard-powder-vanilla-flavor-2kg-447",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 20.11,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0447"
+ },
+ {
+  "num": 448,
+  "name": "Nestle Milo 800g",
+  "slug": "nestle-milo-800g-448",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 8.22,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "cocoa"
+  ],
+  "sku": "AFB-0448"
+ },
+ {
+  "num": 449,
+  "name": "Checkers custard powder banana flavor 2kg",
+  "slug": "checkers-custard-powder-banana-flavor-2kg-449",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 20.0,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0449"
+ },
+ {
+  "num": 450,
+  "name": "Chivita exotic pineapple and coconut 1L",
+  "slug": "chivita-exotic-pineapple-and-coconut-1l-450",
+  "brand": "Chivita",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.33,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0450"
+ },
+ {
+  "num": 451,
+  "name": "GEISHA Brand mackerel in tomato sauce 425gr",
+  "slug": "geisha-brand-mackerel-in-tomato-sauce-425gr-451",
+  "brand": "Geisha",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.45,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base",
+   "protein"
+  ],
+  "sku": "AFB-0451"
+ },
+ {
+  "num": 452,
+  "name": "TOM TOM 152g",
+  "slug": "tom-tom-152g-452",
+  "brand": "Tom",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0452"
+ },
+ {
+  "num": 453,
+  "name": "KTC pure creamed coconut 200g",
+  "slug": "ktc-pure-creamed-coconut-200g-453",
+  "brand": "Ktc",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0453"
+ },
+ {
+  "num": 454,
+  "name": "Lipton yellow label tea 25 tea bags",
+  "slug": "lipton-yellow-label-tea-25-tea-bags-454",
+  "brand": "Lipton",
+  "category_slug": "drinks-teas",
+  "price": 5.97,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0454"
+ },
+ {
+  "num": 455,
+  "name": "GEISHA mackerel in tomato sauce with chili 425g",
+  "slug": "geisha-mackerel-in-tomato-sauce-with-chili-425g-455",
+  "brand": "Geisha",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.16,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base",
+   "protein"
+  ],
+  "sku": "AFB-0455"
+ },
+ {
+  "num": 456,
+  "name": "Chivita active fruit juice 1L",
+  "slug": "chivita-active-fruit-juice-1l-456",
+  "brand": "Chivita",
+  "category_slug": "drinks-teas",
+  "price": 5.75,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0456"
+ },
+ {
+  "num": 457,
+  "name": "Tropical sun CORNED BEEF 340g",
+  "slug": "tropical-sun-corned-beef-340g-457",
+  "brand": "Tropical",
+  "category_slug": "canned-foods",
+  "price": 2.18,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0457"
+ },
+ {
+  "num": 458,
+  "name": "Africa queen mackerel in tomato sauce 425g",
+  "slug": "africa-queen-mackerel-in-tomato-sauce-425g-458",
+  "brand": "Africa",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.67,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base",
+   "protein"
+  ],
+  "sku": "AFB-0458"
+ },
+ {
+  "num": 459,
+  "name": "African sea sardines in vegetable oil 125g",
+  "slug": "african-sea-sardines-in-vegetable-oil-125g-459",
+  "brand": "African",
+  "category_slug": "oils-cooking-essentials",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0459"
+ },
+ {
+  "num": 460,
+  "name": "OLIVE MIRACLE deep conditioning no lye regular relaxer",
+  "slug": "olive-miracle-deep-conditioning-no-lye-regular-relaxer-460",
+  "brand": "Olive",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.13,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0460"
+ },
+ {
+  "num": 461,
+  "name": "GEISHA mackerel in tomato sauce 155gr",
+  "slug": "geisha-mackerel-in-tomato-sauce-155gr-461",
+  "brand": "Geisha",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base",
+   "protein"
+  ],
+  "sku": "AFB-0461"
+ },
+ {
+  "num": 462,
+  "name": "GEISHA mackerel in tomato sauce with chili 155gr",
+  "slug": "geisha-mackerel-in-tomato-sauce-with-chili-155gr-462",
+  "brand": "Geisha",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "tomato_base",
+   "protein"
+  ],
+  "sku": "AFB-0462"
+ },
+ {
+  "num": 463,
+  "name": "TITUS sardines in vegetable oil 125g",
+  "slug": "titus-sardines-in-vegetable-oil-125g-463",
+  "brand": "Titus",
+  "category_slug": "oils-cooking-essentials",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "oil"
+  ],
+  "sku": "AFB-0463"
+ },
+ {
+  "num": 464,
+  "name": "CORNED BEEF Exeter 340g",
+  "slug": "corned-beef-exeter-340g-464",
+  "brand": "Corned Beef",
+  "category_slug": "canned-foods",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0464"
+ },
+ {
+  "num": 465,
+  "name": "Nestle Carnation Evaporated Milk 410g",
+  "slug": "nestle-carnation-evaporated-milk-410g-465",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.1,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0465"
+ },
+ {
+  "num": 466,
+  "name": "Peak Evaporated milk 410g",
+  "slug": "peak-evaporated-milk-410g-466",
+  "brand": "Peak",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.32,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0466"
+ },
+ {
+  "num": 467,
+  "name": "Cadbury hot chocolate 500g",
+  "slug": "cadbury-hot-chocolate-500g-467",
+  "brand": "Cadbury",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.64,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0467"
+ },
+ {
+  "num": 468,
+  "name": "OVALTINE Nutritiously delicious 800g",
+  "slug": "ovaltine-nutritiously-delicious-800g-468",
+  "brand": "Ovaltine",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 6.13,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0468"
+ },
+ {
+  "num": 469,
+  "name": "Bird\u2019s Vanilla Favoured custard powder 600g",
+  "slug": "birds-vanilla-favoured-custard-powder-600g-469",
+  "brand": "Bird\u2019S",
+  "category_slug": "breakfast-cereals",
+  "price": 6.19,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0469"
+ },
+ {
+  "num": 470,
+  "name": "Tropical sun 3-in-1 Milk custard powder 500g",
+  "slug": "tropical-sun-3-in-1-milk-custard-powder-500g-470",
+  "brand": "Tropical",
+  "category_slug": "breakfast-cereals",
+  "price": 5.21,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0470"
+ },
+ {
+  "num": 471,
+  "name": "[OVALTINE Nutritiously delicious 300g",
+  "slug": "ovaltine-nutritiously-delicious-300g-471",
+  "brand": "[Ovaltine",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0471"
+ },
+ {
+  "num": 472,
+  "name": "CHIVITA orange juice 1L",
+  "slug": "chivita-orange-juice-1l-472",
+  "brand": "Chivita",
+  "category_slug": "drinks-teas",
+  "price": 5.91,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0472"
+ },
+ {
+  "num": 473,
+  "name": "CHIVITA pineapple juice 1L",
+  "slug": "chivita-pineapple-juice-1l-473",
+  "brand": "Chivita",
+  "category_slug": "drinks-teas",
+  "price": 6.04,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0473"
+ },
+ {
+  "num": 474,
+  "name": "Checkers instant custard 3in1 1.5kg",
+  "slug": "checkers-instant-custard-3in1-15kg-474",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 14.92,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0474"
+ },
+ {
+  "num": 475,
+  "name": "Nestle Cerelac 1kg",
+  "slug": "nestle-cerelac-1kg-475",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.71,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0475"
+ },
+ {
+  "num": 476,
+  "name": "Lady B custard powder 500g",
+  "slug": "lady-b-custard-powder-500g-476",
+  "brand": "Lady",
+  "category_slug": "breakfast-cereals",
+  "price": 4.92,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0476"
+ },
+ {
+  "num": 477,
+  "name": "Checkers custard powder banana flavor 400g",
+  "slug": "checkers-custard-powder-banana-flavor-400g-477",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 4.4,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0477"
+ },
+ {
+  "num": 478,
+  "name": "Checkers custard powder vanilla flavor 400g",
+  "slug": "checkers-custard-powder-vanilla-flavor-400g-478",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 4.08,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0478"
+ },
+ {
+  "num": 479,
+  "name": "Nestle CEREVITA 500g",
+  "slug": "nestle-cerevita-500g-479",
+  "brand": "Nestle",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 4.2,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0479"
+ },
+ {
+  "num": 480,
+  "name": "SILVER SPOON Granulated sugar 1kg",
+  "slug": "silver-spoon-granulated-sugar-1kg-480",
+  "brand": "Silver Spoon",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.36,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0480"
+ },
+ {
+  "num": 481,
+  "name": "Checkers milk custard 3in1 400g",
+  "slug": "checkers-milk-custard-3in1-400g-481",
+  "brand": "Checkers",
+  "category_slug": "breakfast-cereals",
+  "price": 4.27,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "custard"
+  ],
+  "sku": "AFB-0481"
+ },
+ {
+  "num": 482,
+  "name": "Yellow Grandios pap 500g",
+  "slug": "yellow-grandios-pap-500g-482",
+  "brand": "Yellow",
+  "category_slug": "rice-flour-swallows",
+  "price": 2.88,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "pap"
+  ],
+  "sku": "AFB-0482"
+ },
+ {
+  "num": 483,
+  "name": "Brown Grandios pap 500g",
+  "slug": "brown-grandios-pap-500g-483",
+  "brand": "Brown",
+  "category_slug": "rice-flour-swallows",
+  "price": 2.51,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "pap"
+  ],
+  "sku": "AFB-0483"
+ },
+ {
+  "num": 484,
+  "name": "Graceco foods Yellow maize powder ogi 500g",
+  "slug": "graceco-foods-yellow-maize-powder-ogi-500g-484",
+  "brand": "Graceco",
+  "category_slug": "breakfast-cereals",
+  "price": 4.85,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "pap"
+  ],
+  "sku": "AFB-0484"
+ },
+ {
+  "num": 485,
+  "name": "Graceco foods White maize powder ogi 500g",
+  "slug": "graceco-foods-white-maize-powder-ogi-500g-485",
+  "brand": "Graceco",
+  "category_slug": "breakfast-cereals",
+  "price": 5.25,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "pap"
+  ],
+  "sku": "AFB-0485"
+ },
+ {
+  "num": 486,
+  "name": "Wilkins 30 Fresh eggs family pack",
+  "slug": "wilkins-30-fresh-eggs-family-pack-486",
+  "brand": "Wilkins",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 8.35,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0486"
+ },
+ {
+  "num": 487,
+  "name": "Tropical sun yellow hominy corn 2kg",
+  "slug": "tropical-sun-yellow-hominy-corn-2kg-487",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 16.45,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0487"
+ },
+ {
+  "num": 488,
+  "name": "Tropical sun white hominy corn 2kg",
+  "slug": "tropical-sun-white-hominy-corn-2kg-488",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 15.92,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0488"
+ },
+ {
+  "num": 489,
+  "name": "Tropical sun white hominy corn 500g",
+  "slug": "tropical-sun-white-hominy-corn-500g-489",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.25,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0489"
+ },
+ {
+  "num": 490,
+  "name": "Tropical sun yellow hominy corn 500g",
+  "slug": "tropical-sun-yellow-hominy-corn-500g-490",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 4.05,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0490"
+ },
+ {
+  "num": 491,
+  "name": "Tropical popcorn 2kg",
+  "slug": "tropical-popcorn-2kg-491",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 16.1,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0491"
+ },
+ {
+  "num": 492,
+  "name": "Tropical sun Natural sorrel (Hibiscus) 500g",
+  "slug": "tropical-sun-natural-sorrel-hibiscus-500g-492",
+  "brand": "Tropical",
+  "category_slug": "beans-grains-nuts",
+  "price": 3.72,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0492"
+ },
+ {
+  "num": 493,
+  "name": "Hibiscus leaves (zobo) 100g",
+  "slug": "hibiscus-leaves-zobo-100g-493",
+  "brand": "Hibiscus",
+  "category_slug": "beans-grains-nuts",
+  "price": 1.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0493"
+ },
+ {
+  "num": 494,
+  "name": "Golden penny pasta Twist 500g",
+  "slug": "golden-penny-pasta-twist-500g-494",
+  "brand": "Golden",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.94,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0494"
+ },
+ {
+  "num": 495,
+  "name": "Golden penny pasta Spaghettini 500g",
+  "slug": "golden-penny-pasta-spaghettini-500g-495",
+  "brand": "Golden",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 3.53,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0495"
+ },
+ {
+  "num": 496,
+  "name": "Willeins 12 fresh eggs",
+  "slug": "willeins-12-fresh-eggs-496",
+  "brand": "Willeins",
+  "category_slug": "sauces-pastes-soup-bases",
+  "price": 7.84,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0496"
+ },
+ {
+  "num": 497,
+  "name": "Nestle NIDO milk powder 1800g",
+  "slug": "nestle-nido-milk-powder-1800g-497",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 18.18,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0497"
+ },
+ {
+  "num": 498,
+  "name": "Nestle NIDO milk powder 2.5kg",
+  "slug": "nestle-nido-milk-powder-25kg-498",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 24.9,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0498"
+ },
+ {
+  "num": 499,
+  "name": "Peak milk powder 2500g",
+  "slug": "peak-milk-powder-2500g-499",
+  "brand": "Peak",
+  "category_slug": "breakfast-cereals",
+  "price": 24.67,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0499"
+ },
+ {
+  "num": 500,
+  "name": "Tropical sun milk powder 2.5kg",
+  "slug": "tropical-sun-milk-powder-25kg-500",
+  "brand": "Tropical",
+  "category_slug": "breakfast-cereals",
+  "price": 24.97,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0500"
+ },
+ {
+  "num": 501,
+  "name": "Peak milk powder 900g",
+  "slug": "peak-milk-powder-900g-501",
+  "brand": "Peak",
+  "category_slug": "breakfast-cereals",
+  "price": 8.63,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0501"
+ },
+ {
+  "num": 502,
+  "name": "Tropical sun milk powder 400g",
+  "slug": "tropical-sun-milk-powder-400g-502",
+  "brand": "Tropical",
+  "category_slug": "breakfast-cereals",
+  "price": 4.12,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0502"
+ },
+ {
+  "num": 503,
+  "name": "Tropical sun milk powder 900g",
+  "slug": "tropical-sun-milk-powder-900g-503",
+  "brand": "Tropical",
+  "category_slug": "breakfast-cereals",
+  "price": 8.53,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0503"
+ },
+ {
+  "num": 504,
+  "name": "Peak milk powder 400g",
+  "slug": "peak-milk-powder-400g-504",
+  "brand": "Peak",
+  "category_slug": "breakfast-cereals",
+  "price": 3.89,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0504"
+ },
+ {
+  "num": 505,
+  "name": "Nestle NIDO milk powder 400g",
+  "slug": "nestle-nido-milk-powder-400g-505",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 4.06,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0505"
+ },
+ {
+  "num": 506,
+  "name": "Nestle NIDO milk powder 900g",
+  "slug": "nestle-nido-milk-powder-900g-506",
+  "brand": "Nestle",
+  "category_slug": "breakfast-cereals",
+  "price": 8.53,
+  "image": null,
+  "meal_tags": [
+   "breakfast"
+  ],
+  "ai_meal_roles": [
+   "milk"
+  ],
+  "sku": "AFB-0506"
+ },
+ {
+  "num": 507,
+  "name": "Ades plantain chips 12 pack cinnamon 420g",
+  "slug": "ades-plantain-chips-12-pack-cinnamon-420g-507",
+  "brand": "Ades",
+  "category_slug": "spices-seasonings",
+  "price": 10.64,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0507"
+ },
+ {
+  "num": 508,
+  "name": "Ades plantain chips 12 pack sweet  420g",
+  "slug": "ades-plantain-chips-12-pack-sweet-420g-508",
+  "brand": "Ades",
+  "category_slug": "snacks-biscuits",
+  "price": 3.84,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0508"
+ },
+ {
+  "num": 509,
+  "name": "Ades plantain chips 12 pack green 420g",
+  "slug": "ades-plantain-chips-12-pack-green-420g-509",
+  "brand": "Ades",
+  "category_slug": "snacks-biscuits",
+  "price": 4.16,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0509"
+ },
+ {
+  "num": 511,
+  "name": "Frozen Hake 1kg",
+  "slug": "frozen-hake-1kg-511",
+  "brand": "Frozen",
+  "category_slug": "frozen-fish-meat",
+  "price": 9.55,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0511"
+ },
+ {
+  "num": 512,
+  "name": "Frozen Hake 2kg",
+  "slug": "frozen-hake-2kg-512",
+  "brand": "Frozen",
+  "category_slug": "frozen-fish-meat",
+  "price": 19.88,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0512"
+ },
+ {
+  "num": 513,
+  "name": "Box of Hake 15kg",
+  "slug": "box-of-hake-15kg-513",
+  "brand": "Box",
+  "category_slug": "frozen-fish-meat",
+  "price": 59.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0513"
+ },
+ {
+  "num": 514,
+  "name": "Mackerel 5pcs",
+  "slug": "mackerel-5pcs-514",
+  "brand": "Mackerel",
+  "category_slug": "frozen-fish-meat",
+  "price": 9.83,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0514"
+ },
+ {
+  "num": 515,
+  "name": "Mackerel 3pcs",
+  "slug": "mackerel-3pcs-515",
+  "brand": "Mackerel",
+  "category_slug": "frozen-fish-meat",
+  "price": 10.26,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0515"
+ },
+ {
+  "num": 516,
+  "name": "Jack Mackerel",
+  "slug": "jack-mackerel-516",
+  "brand": "Jack",
+  "category_slug": "frozen-fish-meat",
+  "price": 9.88,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0516"
+ },
+ {
+  "num": 517,
+  "name": "Mackerel 2pcs",
+  "slug": "mackerel-2pcs-517",
+  "brand": "Mackerel",
+  "category_slug": "frozen-fish-meat",
+  "price": 10.25,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0517"
+ },
+ {
+  "num": 518,
+  "name": "Box of Mackerel 20kg",
+  "slug": "box-of-mackerel-20kg-518",
+  "brand": "Box",
+  "category_slug": "frozen-fish-meat",
+  "price": 59.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0518"
+ },
+ {
+  "num": 519,
+  "name": "Frozen Hake 5kg",
+  "slug": "frozen-hake-5kg-519",
+  "brand": "Frozen",
+  "category_slug": "frozen-fish-meat",
+  "price": 49.75,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0519"
+ },
+ {
+  "num": 520,
+  "name": "Small Tilapia 300-500g",
+  "slug": "small-tilapia-300-500g-520",
+  "brand": "Small",
+  "category_slug": "frozen-fish-meat",
+  "price": 4.58,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0520"
+ },
+ {
+  "num": 521,
+  "name": "Medium Tilapia 500-800g",
+  "slug": "medium-tilapia-500-800g-521",
+  "brand": "Medium",
+  "category_slug": "frozen-fish-meat",
+  "price": 7.52,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0521"
+ },
+ {
+  "num": 522,
+  "name": "Large Tilapia 800g+",
+  "slug": "large-tilapia-800g-522",
+  "brand": "Large",
+  "category_slug": "frozen-fish-meat",
+  "price": 8.04,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0522"
+ },
+ {
+  "num": 523,
+  "name": "Pangasius Steak",
+  "slug": "pangasius-steak-523",
+  "brand": "Pangasius",
+  "category_slug": "drinks-teas",
+  "price": 6.5,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [],
+  "sku": "AFB-0523"
+ },
+ {
+  "num": 524,
+  "name": "Catfish",
+  "slug": "catfish-524",
+  "brand": "Catfish",
+  "category_slug": "frozen-fish-meat",
+  "price": 9.85,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0524"
+ },
+ {
+  "num": 525,
+  "name": "Beef Shin 2kg",
+  "slug": "beef-shin-2kg-525",
+  "brand": "Beef",
+  "category_slug": "frozen-fish-meat",
+  "price": 20.15,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0525"
+ },
+ {
+  "num": 526,
+  "name": "Beef Shin 3kg",
+  "slug": "beef-shin-3kg-526",
+  "brand": "Beef",
+  "category_slug": "frozen-fish-meat",
+  "price": 30.28,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0526"
+ },
+ {
+  "num": 527,
+  "name": "Beef Honeycomb 1kg",
+  "slug": "beef-honeycomb-1kg-527",
+  "brand": "Beef",
+  "category_slug": "frozen-fish-meat",
+  "price": 10.15,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0527"
+ },
+ {
+  "num": 528,
+  "name": "Smoked Turkey 3kg",
+  "slug": "smoked-turkey-3kg-528",
+  "brand": "Smoked",
+  "category_slug": "frozen-fish-meat",
+  "price": 30.25,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0528"
+ },
+ {
+  "num": 529,
+  "name": "Smoked Turkey 1kg",
+  "slug": "smoked-turkey-1kg-529",
+  "brand": "Smoked",
+  "category_slug": "frozen-fish-meat",
+  "price": 10.45,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0529"
+ },
+ {
+  "num": 530,
+  "name": "Turkey Midwing Box 10kg",
+  "slug": "turkey-midwing-box-10kg-530",
+  "brand": "Turkey",
+  "category_slug": "frozen-fish-meat",
+  "price": 59.99,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0530"
+ },
+ {
+  "num": 531,
+  "name": "Frozen Beef Snout 1kg",
+  "slug": "frozen-beef-snout-1kg-531",
+  "brand": "Frozen",
+  "category_slug": "frozen-fish-meat",
+  "price": 9.52,
+  "image": null,
+  "meal_tags": [],
+  "ai_meal_roles": [
+   "protein"
+  ],
+  "sku": "AFB-0531"
+ }
+]

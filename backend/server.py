@@ -12,6 +12,7 @@ from routes_shop import router as shop_router
 from routes_admin import router as admin_router
 from routes_ai import router as ai_router
 from routes_stripe import router as stripe_router
+from routes_extras import router as extras_router
 from seed import seed_all
 
 app = FastAPI(title="Afrobean API", version="1.0.0")
@@ -54,6 +55,7 @@ app.include_router(shop_router)
 app.include_router(admin_router)
 app.include_router(ai_router)
 app.include_router(stripe_router)
+app.include_router(extras_router)
 
 
 @app.on_event("startup")
