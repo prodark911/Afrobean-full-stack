@@ -1,0 +1,43 @@
+{
+  "summary": "Full-stack backend+frontend testing of Afrobean ecommerce app. 44 backend pytest cases (43 passing after test fix). Critical frontend flows verified via Playwright: Home, Category, Collection, PDP + add-to-cart drawer, Meal collection, Cart, Login, Admin login → Dashboard, and end-to-end AI Assistant (GPT-5.2) → basket hydration → 'Add all to basket' → cart drawer with 8 items all working. One real backend bug found: /api/checkout/status/{session_id} returns 500 due to Stripe metadata validation in emergentintegrations library.",
+  "backend_issues": {
+    "critical": [
+      {"endpoint": "GET /api/checkout/status/{session_id}", "issue": "Returns 500 Internal Server Error. Root cause: emergentintegrations/payments/stripe/checkout.py line 204 raises CheckoutError because `CheckoutStatusResponse.metadata` expects dict but Stripe returns a StripeObject. Error: '1 validation error for CheckoutStatusResponse metadata Input should be a valid dictionary [type=dict_type, input_value=<StripeObject...>]'. This BREAKS the CheckoutSuccess page polling — customers will never see payment confirmation.", "priority": "CRITICAL"}
+    ],
+    "minor": []
+  },
+  "frontend_issues": {
+    "ui_bugs": [],
+    "integration_issues": [
+      {"flow": "Checkout success / payment status polling", "issue": "Frontend /checkout/success page polls GET /api/checkout/status/{session_id} which currently returns 500 (see backend critical). User will see error or infinite loading.", "affected_selectors": ["/checkout/success"]}
+    ],
+    "design_issues": []
+  },
+  "test_report_links": [
+    "/app/backend/tests/test_afrobean_api.py",
+    "/app/test_reports/pytest/pytest_results.xml"
+  ],
+  "action_items": [
+    "Fix /api/checkout/status/{session_id} 500 error. The emergentintegrations StripeCheckout.get_checkout_status() fails Pydantic validation because Stripe returns session.metadata as a StripeObject, not a plain dict. Quick fix: wrap the call and catch CheckoutError, or normalise metadata before validation. Alternatively, call stripe.checkout.Session.retrieve directly and build the response manually with dict(session.metadata).",
+    "Note: this bug does NOT affect /api/checkout/session (creation) or the Stripe webhook handler, both of which work. Only the success-page polling path is broken."
+  ],
+  "critical_code_review_comments": [
+    "routes_stripe.check_status does not handle CheckoutError — any exception from emergentintegrations bubbles up as a raw 500. Wrap in try/except and return a user-friendly 502/503.",
+    "routes_shop.py uses a lot of repeated `from auth import get_current_user; payload = await get_current_user(...)` boilerplate — could be factored into a helper dependency.",
+    "routes_stripe.py _compute_delivery_fee is duplicated logic with /api/delivery/quote (routes_shop). Consider extracting to a single util to avoid drift.",
+    "AI route /api/ai/chat has no rate limiting and sends full catalog context on every call (~120 products) — could become costly at scale.",
+    "Several admin endpoints accept `Dict[str, Any]` bodies without Pydantic validation (e.g. admin_update_product, admin_bulk_products, admin_adjust_stock) — validation is weak; missing fields cause silent issues.",
+    "routes_stripe.py `check_status`: if metadata is missing, falls back to txn.order_number which is safe, but the 500 path is not caught.",
+    "Admin delete endpoints return 200 even when the resource doesn't exist (no 404 on missing id)."
+  ],
+  "updated_files": [
+    "/app/backend/tests/test_afrobean_api.py"
+  ],
+  "success_rate": {"backend": "97.7% (43/44)", "frontend": "100% of tested critical flows"},
+  "test_credentials": "Admin: admin@afrobean.co.uk / Admin@123 (verified). Customer: demo@afrobean.co.uk / Demo@123 (verified).",
+  "seed_data_creation": "Test script creates disposable signup users (TEST_*@afrobean-test.co.uk) and one TEST product (then archives). OTP test uses example.com emails.",
+  "retest_needed": true,
+  "main_agent_can_self_test": true,
+  "context_for_next_testing_agent": "Backend test file at /app/backend/tests/test_afrobean_api.py covers all public catalog, customer auth, OTP, cart (guest+auth), wishlist, AI chat + add-to-cart, admin CRUD, Stripe checkout creation, and checkout status. 43/44 passing — only failing test is Stripe status polling due to the emergentintegrations library bug. Frontend was tested via Playwright with data-testid selectors; AI flow uses [data-testid='ai-input']/[data-testid='ai-send']/[data-testid='ai-add-basket']. PDP uses [data-testid='add-to-cart-btn'] and opens a cart drawer with [role='dialog'].",
+  "rca_of_the_issue": "Bug: /api/checkout/status returns 500. Reproduction: POST /api/checkout/session (creates Stripe session), immediately GET /api/checkout/status/{session_id}. Traceback: emergentintegrations/payments/stripe/checkout.py line 204 → CheckoutStatusResponse Pydantic model validation fails because Stripe SDK returns session.metadata as a `StripeObject` (dict-like but not a strict dict). Mitigation: either (a) upgrade/replace emergentintegrations with direct stripe SDK usage and cast metadata to dict(session.metadata), or (b) patch the returned object before passing to the Pydantic model. The /api/webhook/stripe path works and is the primary truth source for paid orders, so MVP-level payment flow is still recoverable via webhook, but the CheckoutSuccess page UX is broken."
+}
